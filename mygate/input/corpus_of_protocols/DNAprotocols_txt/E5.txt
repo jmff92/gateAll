@@ -1,0 +1,65 @@
+Comparison and optimization of ancient DNA extraction 
+
+Initial comparison of different methods using ~40mg sample material 
+
+1a.1 Silica method (1) 
+1. 40 mg of powder were digested in 1ml buffer composed of 0.45M EDTA pH 8.0, 0.5% N-lauroylsarcosine, 1% PVP, 50mM DTT, 2.5mM PTB and 0.25 mg/ml proteinase K overnight at 37C in the dark. 
+2. After centrifugation, the supernatant was added to 4ml binding buffer (L2: 5M GuSCN, 25mM NaCl, 50mM Tris (pH 8.0)) plus 15ul silica suspension (prepared according to (2), using silica from Sigma [ordering number: S5631]) and incubated under agitation for one hour at room temperature.
+3. The silica pellet was collected via centrifugation, the supernatant discarded and the pellet washed once with binding buffer and once with NewWash solution (see 3.8 for preparation, Qbiogene, USA). 
+4. Subsequently, the pellet was dried at 56C for 7min.
+5. DNA was eluted with 50ul 1xTE at 56C for 10min, and after centrifugation, the aqueous solution was transferred to a new tube. 
+
+1a.2 Centricons 
+1. 40 mg of powder were incubated as described above. 
+2. After centrifugation, the supernatant was added to 1ml phenol (pH 8.0), gently mixed and centrifuged for 3min. This step was repeated once.
+3. The aqueous phase was added to 1ml Ready Red (Chloroform / Isoamylalcohol, Qbiogene), mixed and centrifuged again for 3min. 
+4. Thereafter, the aqueous phase was added to Centricon YM 30 (MWCO 30,000; Millipore, USA) filter devices and centrifuged at 13,200 rpm until ~50ul remained. 
+5. This solution was washed twice with 100ul 1xTE by centrifugation. 
+6. The remaining ~50ul extract were transferred using inverse centrifugation of the filter into a new tube. 
+
+1a.3 Phenol chloroform (3) 
+1. 40 mg of powder were decalcified in 2ml 0.5M EDTA (pH 8.0) at room temperature overnight. 
+2. After centrifugation, the supernatant was discarded and the remaining pellet was digested by incubation at 37C overnight in 1ml extraction buffer composed of 10mM Tris (pH 8.0), 10mM NaCl, 0.1% SDS, 50mM DTT, 0.25mg/ml proteinase K and 2.5mM PTB (concentrations of DTT, proteinase K and PTB were taken from (1), as the concentrations are omitted in (3)). 
+3. After centrifugation, the supernatant was added to 1ml phenol (pH 8.0), gently mixed and centrifuged for 3min. This step was then repeated. 
+4. The aqueous phase was added to 1ml Ready Red, gently mixed and centrifuged for 3min. 
+5. Then the aqueous phase was added to Centricon YM 30 filter devices, and the solution was concentrated via centrifugation at 5,000 rpm.
+6. The solution was washed twice with 200ul 1xTE. 
+7. The remaining ~50ul extract were transferred by inverse centrifugation of the filter using a new tube. 
+
+1a.4 User-developed protocol: Isolation of genomic DNA from compact bone using the DNeasy Tissue Kit (Qiagen, Germany) 
+1. 40 mg of powder were decalcified in 2ml 0.5M EDTA (pH 8.0) at room temperature overnight. 
+2. After centrifugation, the supernatant was discarded and the pellet washed with 1ml ddH2O, centrifuged and again the supernatant discarded. 
+3. 360ul buffer ATL and 40ul proteinase K were added to the pellet. 
+4. This mixture was incubated under agitation for one hour at 56C until lysis of the pellet was complete. 
+5. After vortexing, 400ul buffer AL were added, and the mixture was incubated at 70C for 10min. 
+6. 400ul ethanol absolute and 3ng of DNA size marker serving as a carrier were added, and the samples were gently mixed. 
+7. The mixture was pipetted onto DNeasy spin columns and centrifuged at 8,000 rpm for 1min. 
+8. The flow-through was discarded, and the remaining mixture was pipetted to the columns and centrifuged again. 
+9. Following this step, the column was washed once with 500ul buffer AW1, once with 500 ul AW2, and then centrifuged for 3min at 14,000rpm until it was dry. 
+10. 50ul of buffer AE were added, incubated for 1min at room temperature and centrifuged for 1min at 8,000rpm. 
+11. This flow-through represents the extract. 
+
+1a.5 “DNA-Präparation aus Knochen” with All-tissue DNA-Kit (GEN-IAL GmbH, Germany) 
+1. 40 mg of bone powder were decalcified overnight in 2ml 0.5M EDTA (pH 8.0) at room temperature. 
+2. After centrifugation, the supernatant was discarded and the pellet was washed with 1ml ddH2O, centrifuged and the supernatant again discarded. 
+3. 1ml Lyse1 buffer, 100ul Lyse 2, 3mg DTT and 15ul proteinase K were added to the pellet and incubated for about one hour at 56C under agitation until the pellet was completely dissolved. 
+4. 750ul Lyse 3 buffer were added, vortexed, incubated at -20C for 5min and centrifuged at 13,000rpm for 20min. 
+5. The supernatant (~1.8ml) was transferred to a fresh tube and 0.8 volume of isopropanol, plus 10ng of a DNA size marker as a carrier were added. 
+6. To precipitate the DNA, the mixture was centrifuged for 15min at 13,000rpm.
+7. The supernatant was removed and 300ul ice cold 70% ethanol were added and centrifuged at 13,000rpm for 5min. 
+8. The liquid was discarded and the DNA pellet dried at 56C for 5min. 
+9. The DNA was dissolved in 50ul 1xTE. 
+
+1a.6 Bone Extraction Protocol to be used with the DNA IQ System (Promega, USA). 
+1. 40 mg of powder were incubated in 1ml proteinase K digestion buffer composed of 10mM Tris (pH 8.0), 10mM NaCl, 50mM EDTA (pH 8.0), 0.5% SDS and 1mg/ml proteinase K for one hour at 56C under agitation. 
+2. 2ml Lysis buffer (including 10mM DTT) and 15ul of Resin (magnetic particles) were added to the supernatant. 
+3. After incubation at room temperature for 10min with frequent mixing of the solution, the Resin was collected using the Magnetic Stand. 
+4. The supernatant was removed and again 100ul Lysis buffer were added, vortexed, the Resin separated, the solution removed and 100ul Wash buffer added. 
+5. After vortexing, separation and removal of the liquid, this washing step was repeated twice. 
+6. The Resin was then air dried for 15min in the Magnetic Stand. 
+7. 50ul 1xTE were added, vortexed and DNA was eluted for 5min at 65C. 
+8. The separated supernatant represents the extract. 
+
+2.7 Sample preparation technique 
+The sample was prepared prior to incubation in the extraction  buffer.  
+Either the powder was prepared using a freezer mill or part of the compact sample was ground to a more or less coarse-grained “powder” using a mortar and pestle.

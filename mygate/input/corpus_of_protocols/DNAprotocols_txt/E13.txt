@@ -1,0 +1,14 @@
+DNA extraction from small amounts of lyophilized tissue (Cimmyt)
+
+To extract DNA from small amounts of lyophilized tissue (~ 50 mg), use 2 ml tubes and proceed 
+as follows: 
+ 1. Add 1 ml of CTAB buffer. 
+ 2. Incubate for 60 min with continuous movement??. 
+ 3. Remove tubes from incubator, let them cool, and add 1 ml of chloroform:octanol. Mix for 10 min. 
+ 4. Centrifuge for 10 min. 
+ 5. Remove 700 µl of the top aqueous layer. 
+ 6. Add 10 µl of 10 mg/ml RNase A. Mix and incubate for 30 min. 
+ 7. Add 1 ml of isopropanol and mix. 
+ 8. Centrifuge tubes for 15 min at 12000 rpm to precipitate DNA. 
+ 9. Remove the supernatant and dry the DNA at RT. 
+ 10. Re-suspend in 200 µl TE. 

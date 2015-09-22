@@ -1,0 +1,17 @@
+A PCR-based Genotyping Method to Distinguish Between Wild-type and Ornamental Varieties of Imperata cylindrica (Jove)
+
+DNA Extraction
+To extract DNA from plant tissue, follow the DNeasy Plant Mini Kit (Qiagen, Valencia, CA; Cat# 69104 or 69106) manufacturer's instructions with one minor modification. Instead of using the suggested less than 100 mg fresh tissue or less than 20 mg dry tissue for each column, grind greater than 100 mg, and then transfer 100 mg from fresh or frozen tissue (or > 20 mg from dry tissue) to appropriate tubes for extraction. Nuclear and plastid DNA is extracted simultaneously.
+
+1. Before starting these procedures, verify that ethanol was added to buffers AP3/E and AW.
+2. Grind >100 mg of fresh or frozen leaf tissue (or >20 mg of dry leaf tissue) to a fine powder using three rounds of liquid nitrogen with grinding in a chilled mortar and pestle. Insufficient disruption of the starting material or insufficient lysis can also lead to lower yields of DNA. Carefully grind the tissue and do not overload the columns with too much tissue.
+3. Transfer 100 mg frozen powder from fresh or frozen tissue (or 20 mg of powder from dry tissue) to a 1.5 ml microcentrifuge tube containing 400 µl of Buffer AP1 and 4 µl of RNase A. Each tube can be placed in a small rack on a balance to monitor the correct weight of tissue per tube.
+4. Vortex or shake sample(s) to mix and incubate for 10 min at 65C, inverting the tube(s) 2-3 times during incubation.
+5. Add 130 µl of Buffer AP2 to each sample. Mix by inverting the tube(s) several times, and incubate for 5 min on ice.
+6. Pipet each lysate into a separate QIAshredder Mini spin column, and place each column in a 2 ml collection tube (provided with the kit). Centrifuge column(s) for 2 min at 20,000 x g (~14,000 rpm), and transfer each flow-through fraction into a new tube (not supplied with the kit) without disrupting any formed pellet.
+7. Add 1.5 volumes of Buffer AP3/E, and mix by pipetting.
+8. Transfer 650 µl of mixture into a DNeasy Mini spin column in a 2 ml collection tube. Centrifuge column(s) for 1 min at 6,000 x g (~8,000 rpm), and discard the flow-through. Repeat this step with the remaining mixture for each sample.
+9. Place the spin column(s) into a new 2 ml collection tube(s), and add 500 µl of Buffer AW to the top of each column. Centrifuge column(s) for 1 min at 6,000 x g (~8,000 rpm), and discard flow-through.
+10. Add another 500 µl of Buffer AW to the top of each column. Centrifuge for 2 min at 20,000 x g (~14,000 rpm). This step will dry the column, thus removing any residual ethanol contained in the buffers that can inhibit PCR.
+11. Transfer each spin column to a new 1.5 ml microcentrifuge sample tube. Add 100 µl Buffer AE to the top of each column for elution, and incubate column(s) for 5 min at room temperature. Centrifuge column(s) for 1 min at 6,000 x g (~8,000 rpm) to collect the DNA.
+12. Repeat these elution steps one time, eluting the DNA into the same 1.5 ml microcentrifuge tube to yield 200 µl of sample. Store DNA samples at -20C until use. DNA concentrations depend on tissue type and storage conditions. Optimal yields are obtained when eluting DNA with a total of 200 µl of buffer AE; however, concentrations can be increased if elution volumes are reduced to as little as 50 µl.

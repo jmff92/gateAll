@@ -1,0 +1,17 @@
+Extraction of nucleic acids from yeast cells and plant tissues using ethanol as medium for sample preservation and cell disruption
+
+Tissue and cell disruption
+1.	The ethanolic yeast suspension or the ethanol with the suspended plant material was aspirated or decanted from the zeolite beads. 
+2.	For subsequent disruption of yeast cells, a mixture of 200 mg glass beads with a diameter of 0.25-0.5 mm and 10 glass beads with a diameter of 2.5 mm (Carl-Roth GmbH, Karlsruhe, Germany) were added. 
+3.	For disruption of plant tissues, 200 mg cerium-stabilized zirconium oxide beads with a diameter of 0.4-0.6 mm and 10 cerium-stabilized zirconium oxide beads with a diameter of 2-2.4 mm (Muhlmeier GmbH & Co, Barnau, Germany) were enclosed. 
+4.	The tubes were shaken in a horizontal position on a vortex mixer. 
+5.	A Vortex L46 (Labinco BV, Breda, &e Netherlands) or a VortexGenie 2 (Scientific Industries, Bohemia, NY, USA) were used with suitable adapters at maximum speed. 
+6.	Disruption of yeast cells was almost complete after 15 min. For plant materials, a disruption time of 1 h was applied.
+7.	The homogenate could be easily separated from the large grinding beads by aspiration.
+
+Extraction
+1.	An aliquot (usually 100 or 200 (L) of the ethanolic homogenate was centrifuged, absolute ethanol was decanted, and the pellet was completely dried at room temperature. 
+2.	Extraction of the dry cells or cell debris with a defined volume (usually 100 (L) of the solubilizing buffer (50 mM Na-EDTA, pH 7.5, 1.4% SDS) was carried out on the vortex shaker at room temperature for 15 min (standard treatment) or by using longer periods if indicated. 
+3.	The volume ratio between the ethanolic homogenate and the solubilizing buffer could be increased up to 10-fold, if the dry weight concentration in the homogenate was low. 
+4.	A ratio of 1 was suitable when the homogenate contained debris of yeast cells with a dry weight concentration of approximately 5 mg/mL or of plant tissues with a dry weight concentration of approximately 15 mg/mL. 
+5.	To extract nucleic acids for purification of RNA by means of the guanidinium thiocyanate-phenol method (1), the homogenate pellet was solubilized in the sarcosyl buffer recommended for this method.

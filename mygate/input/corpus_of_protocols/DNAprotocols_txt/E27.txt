@@ -1,0 +1,10 @@
+DNA extraction (SAGHAI-MAROOF, 1984)
+
+1.	Total cellular DNA was isolated from individual seedlings by a modification of the method of Murray and Thompson (8). 
+2.	Freeze-dried tissue (0.75 g, dry weight) was powdered with a mechanical mill, 
+3.	dispersed in 15 ml of extraction buffer (50 mM Tris, pH 8.0/0.7 M NaCl/10 mM EDTA/1% hexadecyltrimethylammonium bromide/0.1% 2-mercaptoethanol), and incubated at 60 C for 30-60 min with occasional mixing by gentle swirling. 
+4.	Chloroform/octanol, 24:1 (vol/vol) (10 ml), was added, and the solution was mixed by inversion to form an emulsion that was centrifuged at 5125 x g (IEC Clinical) for 10 min at room temperature. 
+5.	The aqueous phase was removed, and 2/3 vol of isopropanol was added and mixed by two-to-four quick, gentle inversions. 
+6.	The precipitated DNA was lifted out with a glass hook, 
+7.	transferred to a tube containing 20 ml of 76% ethanol/10 mM NH4OAc for 20 min, and then dissolved in 1.5 ml of 10 mM NH4OAc/0.25 mM EDTA. 
+This method yields -200 Ag of DNA per 0.75 g of dry tissue.

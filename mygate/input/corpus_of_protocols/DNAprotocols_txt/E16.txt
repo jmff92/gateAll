@@ -1,0 +1,17 @@
+Rapid DNA isolation for marker assisted selection in rice breeding
+Kangle ZHENG, Prasanta Kumar SUBUDHI, Jessica DOMINGO, Gerard MAGPANTAY and Ning HUANG
+Plant Breeding, Genetics and Biochemistry Division, IRRI, P. O. Box 933, Manila, Philippines
+
+Plant tissues at different growth stages from young seedling to maturity can be used for DNA isolation. 
+1.	A healthy leaf blade (about 2 cm long) is collected in 1.5 ml tube. 
+2.	The tube is capped and placed on ice. 
+3.	The leaf tissue is cut into half cm long and placed in a well of spot test plate (Thomas Scientific). 
+4.	Four hundred µl of extraction buffer (Tris-HCl 50 mM, pH 8.0, EDTA 25 mM, NaCl 300 mM, SDS 1 %) is added. 
+5.	The tissue is ground using a thick glass rod as a pestle. 
+6.	Again 400µl of the extraction buffer added, mixed and 400µl of it is transferred into the original 1.5ml tube. 
+7.	Then 400µl chloroform (containing 4% V/V isoamyl alcohol) is added and mixed well, spun for 30 seconds in microcentrifuge. 
+8.	Care is taken not to disturb the interface. The supernatant is transferred to another 1.5ml tube. 
+9.	To the supernatant, 800µl absolute alcohol is added and mixed gently. 
+10.	The tube is spun for 3 min in microcentrifuge with full speed and the supernatant is decanted. 
+11.	The pellet is washed with 70% ethanol and air dried. 
+12.	DNA is suspended in 50µl of TE (Tris-HCI 10 mM, pH 8.0, EDTA 1 mM) and then stored at -20C.

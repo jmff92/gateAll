@@ -1,0 +1,20 @@
+Phase: denaturationStep
+Input: Token SpaceToken
+Options: control = first
+Rule: denaturationStep1
+(
+({Token.string == "5"} | {Token.string == "3"})
+({Token.string == "'"})
+(({SpaceToken})[0,1])
+(({token})[0,1])
+(({SpaceToken})[0,1])
+(({token})[0,1])
+(({SpaceToken})[0,1])
+(({token})[0,1])
+(({SpaceToken})[0,1])
+({Token.string == "3"} | {Token.string == "5"})
+({Token.string == "'"})
+):primersequence2
+
+--> 
+:primersequence2.Primersequence2 = {type = "primersequence2"}

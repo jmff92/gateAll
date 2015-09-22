@@ -1,0 +1,13 @@
+Rapid DNA Extraction from Plants (C. NEAL STEWART, JR)
+1. Harvest between 0.02 and 0.2  g  fresh leaf, callus, embryo(or appropriate animal tissue) into a microfuge tube. Place on ice. These may be  sufficiently stable for hours to days, depending upon species.
+Note: For plants, best quality  and yield is obtained when newlyflushing leaves are used. However, the procedure has been used with a plethora of tissues, including herbarium specimens.
+Caution: All subsequent steps should be performed in a fumehood.
+2. Aliquot 500 ul of homogenization buffer (including the 2-mercaptoethanol) into each microfuge tube. For tough leaves from woody plants (exemplified by oaks or cranberry) heating the buffer to 65C may increase yield.
+3. Chuck pestle directly onto drill and homogenize tissue. The disposable pestles may be reused after decontamination with 100/<1 commercial bleach followed by subsequent washes with water.
+4. Incubate tubes at 65C for 5-60 min. The incubation time is not crucial for most species and can be determined by investigator convenience.
+5. Add 500 ul extraction solution to tubes and mix. For most plant species this may consist of ten inversions. For recalcitrant species (such as woody plants) placing tubes horizontally on a shaker (500  rpm) for 5-10 min may increase yield.
+6. Centrifuge at 3000g for 5 min. Slightly higher g or longer centrifugation periods may be necessary to keep the interface compact and the top layer clear if many (>12) samples are centrifuged at a time.
+7. Pipette top (aqueous) layer (about 400 ul) into a fresh tube.
+8. Add 800 ul ethanol or 270 ul isopropanol and invert several times to precipitate DNA. The sample may be allowed to set at room temperature or 4C for 5-60 min to increase DNA yield. Longer periods will not affect DNA quality, but may slightly increase yield.
+9. Centrifuge at 13000-16000 g for 10-20 min at room temperature.
+10. Decant supernatant, air-dry pellet, and resuspend in 50-500 ul water.

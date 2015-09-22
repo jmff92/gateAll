@@ -1,0 +1,32 @@
+Isolation and analysis of high quality nuclear DNA with reduced organellar DNA for plant genome sequencing and resequencing (BMCbiotechnology)
+
+Protocol A
+Protocol A is used for plant tissue that contains less secondary metabolites or limited amount of plant material, such as A. thaliana and G.aurea. Nuclei were isolated using a sucrose gradient protocol modified from Gendrel et al.  
+1.	Protocol A used 0.25 g of plant tissue that was flash frozen in liquid nitrogen and ground with a Retsch mixer mill (MM301; Haan, Germany). 
+2.	The ground tissue was resuspended in 30 ml ice-cold Extraction Buffer 1 (0.4 M Sucrose, 10 mM Tris, pH 8, 10 mM MgCl2 ,5mM b-mercaptoethanol) and filtered through Miracloth. 
+3.	The sample was centrifuged for 20 minutes at 4000 rpm (1940g)at 4C.
+4.	The pellet was resuspend in 1 ml of chilled Extraction Buffer 2 (0.25 M Sucrose, 10 mM Tris, pH 8, 10 mM MgCl2 , 1% Triton X-100, 5 mM b-mercaptoethanol) and spun at 12,000g for 10 minutes at 4C. 
+5.	The pellet was resuspend in 300 µl of chilled Extraction Buffer 3 (1.7MSucrose,10mMTris,pH8,2mMMgCl2, 0.15% Triton X-100, 5 mM b-mercaptoethanol) and overlaid on top of 300 µl of chilled Extraction Buffer 3 and spun for 1 hour at 14,000g at 4C. 
+6.	The nuclei pellet was resuspended in TE buffer (10 mM Tris-HCl, pH 8, 1 mM EDTA, pH 8). 
+7.	The DNA was treated with RNase and Proteinase K and the DNA was precipitated with isopropanol.
+
+Protocol B
+Protocol B was used for DNase-rich plant material, such as L.gibba,S.polyrhiza, and plant species where large amounts of starting material are available, such as B. distachyon, Z. mays and S. bicolor. This protocol was modified from [16] Option Y as described in Table 1.
+1.	Protocol B used 10 g of ground tissue that was transferred into 200 ml fresh SEB extraction buffer (2.0% w/v polyvinylpyrrolidone (MW 40,000), 10% v/v TKE (Tris, KCl, EDTA: 0.1 M Tris base, 1.0 M KCl, 0.1 M EDTA, pH 9.4-9.5), 500 mM sucrose, 4 mM spermidine trihydrochloride, 1 mM spermine tetrahydrochloride, 0.1% w/v ascorbic acid, 0.13% w/v sodium diethyldithiocarbamate, 2.5% v/v b-mercaptoethanol). 
+2.	The mixture was placed on ice for 30 minutes and the homogenate was filtered through 2 layers of cheesecloth. 
+3.	Triton X-100 was added to a final concentration of 0.5%, 
+4.	the sample was placed on ice for 10 minutes, and then centrifuged at 650g for 15 minutes at 4C. 
+5.	The nuclei pellet was resuspended in 100 ml SEB extraction buffer and centrifuged at 650g for 15 minutes at 4C. 
+6.	The nuclei pellet was resuspended in TE and purified by digestion with RNase and Proteinase K; 
+7.	the DNA was precipitated with isopropanol.
+
+Protocol C
+Protocol C was used for plants that were rich in secondary metabolites such as Vaccinium macrocarpon. This protocol was modified from Option X from Peterson. 
+1.	Protocol C used 10 g ground tissue that was transferred into 200 ml fresh MEB extraction buffer (1 M 2-methyl-2,4-pentanediol (MPD), 10 mM PIPES-KOH, 10 mM MgCl2, 2% PVP-10, 10 mM sodium metabisulfite, 5 mM b-mercaptoethanol, 0.5% sodium diethyldithiocarbamate, 6m MEGTA,200mML-lysine-HCl,pH5.0).
+2.	The homogenate was filtered through 2 layers of cheesecloth.
+3.	Triton X-100 was added to a final concentration of 0.5%, placed on ice for 8 minutes and centrifuged at 800g for 20 min at 4C. 
+4.	The pellet was resuspended in 100mlofMPDB(0.5M2-methyl-2,4-pentanediol, 10=mM PIPES-KOH, 10 mM MgCl2.6H2O, 0.5% Triton X-100, 10 mM sodium metabisulfite, 5 mM b-mercaptoethanol, pH 7.0) and layered on top of a 37.5% Percoll bed (20 ml of 37.5% Percoll (7.5 ml percoll + 12.5 ml MPDB) in a 50 ml-centrifuge tube). 
+5.	The gradient was centrifuged in a swinging bucket rotor at 650g for 1 hour. 
+6.	The pellet was resuspended in 10 ml MPDB buffer, centrifuged at 300g for 10 minutes, and then centrifuged at 650g for an additional 10 min. 
+7.	The nuclei pellet was resuspended in TE and purified by digestion with RNase and Proteinase K; 
+8.	the DNA was precipitated with isopropanol.

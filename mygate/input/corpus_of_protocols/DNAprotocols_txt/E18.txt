@@ -1,0 +1,28 @@
+DNA extraction Protocol B (modified - Doyle and Doyle, 1990) (GMR)
+
+1. To each ground leaf sample, add 1 mL extraction buffer (2% CTAB, 100 mM Tris-HCl, pH 7.5, 1.4 M NaCl, 20 mM ethylene diamine tetraacetic acid (EDTA), pH 8.0. Add 2% β-mercaptoethanol and 2% PVP-40) and incubate samples for 1 h at 60C with occasional swirling.
+2. Cool samples at room temperature, add 600 µL Chloroform:isoamyl alcohol, 24:1 (CIA). and mix gently for 5 min.
+3. Centrifuge at 10,000 rpm for 15 min. Transfer the supernatant to a new tube and add an equal volume of isopropanol. Mix gently and incubate at -20 C overnight.
+4. Centrifuge for 15 min at 10,000 rpm. Wash the pellet with 70% ethanol and centrifuge for 10 min. Repeat this wash once or twice.
+5. Dry the DNA and dissolve the pellet in 20-50 µL (according to your quantity) TE-RNase solution. Incubate for 1 h at 37 C
+
+
+DNA extraction Protocol C (modified - Murray and Thompson, 1980) (GMR)
+
+1. Add 750 µL of extraction buffer to 1.5-mL microcentrifuge tubes. Add a stipule-tip of powdered leaf to each tube and swirl well.
+2. Incubate sample for 1 h at 60 C, with swirling every 15 min.
+3. Add 700 µL CIA and mix thoroughly. Centrifuge for 15 min at 10,000 rpm. 
+4. Transfer the aqueous phase to a new tube, add 0.33 vol. ice-cold isopropanol, and store at -30 C for at least 1 h. Centrifuge for 15 min at 10,000 rpm at room temperature. 
+5. Discard supernatant without disturbing the pellet. Resuspend pellet in 100-200 µL TE. Add 1-2 µL 10 mg/mL RNase. Add 0.1 vol. 2.5 M NaOAc and 2 vol. ice-cold 95% ethanol, and store at -20 C for 30 min. Centrifuge for 5 min at 10,000 rpm. Discard supernatant.
+6. Wash pellet with 1 mL 70% ethanol. Centrifuge for 4 min at 10,000 rpm and pour off ethanol.
+7. Resuspend pellet in 100-200 µL TE.
+
+
+DNA extraction Protocol D (modified - Cota-Sanchez et al., 2006) (GMR)
+
+1. Preheat CTAB buffer to 65 C. Add 800 µL CTAB buffer and 800 µL to 1.5-mL microcentrifuge tubes, add a stipule-tip of leaf powdered to each tube, and mix well.
+2. Incubate in a water bath at 65 C for 15 min with occasional swirling.
+3. Cool sample to room temperature by keeping tube on ice. Add 750 µL CIA to each tube and invert 50 times. Centrifuge for 15 min at 10,000 rpm. Transfer the supernatant to a new tube and repeat CIA extraction.
+4. Transfer the supernatant to a new tube with 0.7 vol. ice-cold isopropanol and invert gently 10 times. Centrifuge for 15 min at 10,000 rpm. For samples with clear pellets, discard supernatant without disturbing the pellet, and for samples with gelatinous material above the pellet, remove all but leave the gelatinous portion and pellet intact.
+5. Wash pellet with 1 mL 70% ethanol. Centrifuge for 10 min at 10,000 rpm and pour off ethanol; repeat this step. Vacuum-dry pellet. Do not over-dry.
+6. Resuspend pellet in 50-20 µL TE. Incubate at 37 C for 30 min.

@@ -1,0 +1,11 @@
+Chloroplast DNA Extraction Protocol for Grasses (Poaceae) (PlosOne)
+
+1.	cpDNA was extracted in an equal volume of saturated phenol (pH 8.0), 
+2.	well mixed, 
+3.	centrifuged (2,600 X g, 20 min) and the upper clear aqueous phase transferred to new tubes. 
+4.	An equal volume of chloroform:isoamyl-alcohol (24:1) was added twice, 
+5.	tubes were well mixed, 
+6.	centrifuged (2,600 X g, 20 min) and the supernatant transferred to a new tube (13 with modifications: chloroform:isoamyl (24:1) instead of chloroform). 
+7.	Finally the cpDNA was precipitated with 99% ethanol and re-suspended in 1X TE. 
+8.	The cpDNA samples were treated with 2 ml RNAse/250 ml and the isolation success was determined by restriction digestion using EcoRI and HindIII. 
+9.	The results were visualized on a 0.5 X TBE 1% agarose gel.

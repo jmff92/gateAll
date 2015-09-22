@@ -1,0 +1,11 @@
+DNA Extraction Using the Sap Extractor (based on method of Clarke et al., 19891) 
+
+1. Setting up and using the sap extractor: Make sure that the rollers are completely clean and that the flushing system for cleaning the rollers between samples is connected to a high pressure source of de-ionized water. If you can only use tap water to flush the rollers, make sure that you finally rinse them thoroughly with de-ionized or dH2O between samples. Always wipe the rollers dry using clean, soft tissue paper before initiating the following sample extraction. Position the buffer feeding tip over the upper half of the rollers to ensure that the buffer will mix effectively with the pressed tissue sample. Feed the tissue sample between the rotating rollers at a slight angle to ensure even pressure is applied to a single layer of the tissue (the tissue will wrap around one roller in a spiral). 
+2. Use 150-250 mg of freshly harvested leaf tissue kept in ice (within a tube) or frozen at -80C (within a tube). It is critical that as you feed the tissue into the extractor, between the rollers, the buffer should already be at that position in the rollers. So make sure that you synchronize this operation well with the pumping of the buffer; otherwise, the DNA will be degraded. Pump 1.0 ml of extraction buffer and collect the extract in 2 ml tubes at the tips of the rollers. 
+3. Incubate the extracts in a water bath or an oven at 65C for 20-40 min; mix gently twice or continuously during this incubation. Remove the tubes from the heat and let cool for 5-10 min. 
+4. Extract the samples with 1 ml of octanol-chloroform (1:24). Mix by inversion for 5 min; then spin in a table-top centrifuge at 3200 rpm for 10 min. 
+5. Transfer the aqueous supernatant containing the DNA to 2.0 ml Eppendorf tubes. If the DNA has to be quantified precisely at the end of the extraction, add 10-20 µl of RNAse A + T1 (see other protocols) in the tube and incubate for 30 min at 37C, or for one hour at RT. 
+6. Add 75 µl of 5M NaCl and precipitate DNA with 1 ml of cold absolute ethanol. 
+7. Spin DNA down, decant ethanol, and dry under a weak vacuum for 30 min. 
+8. Re-suspend overnight in the cold room in 200-500 µl TE, pH 8.0. 
+9. Quantify using a gel method or a TKO fluorometer. With this method, a minimum of 15 µg of DNA can be obtained.

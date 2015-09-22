@@ -1,0 +1,16 @@
+DNA Extraction From Archival Museum Insect Specimens (Modified from Qiagen® DNeasy Blood & Tissue Kit)
+
+1.  Add 60µl PBS to labeled microcentrifuge tubes. 
+2.  Remove the head and prothorax from each specimen by inserting a forceps tip at the mesoscutellum (the joint of the pronotum and elytra) and place in the corresponding labeled 1.5ml microcentrifuge tube. Do not homogenize the tissue.  
+3.  Add 40µl proteinase K to the microcentrifuge tube.  
+4.  Add 200µl Buffer ATL (without added ethanol) to the microcentrifuge tube. Mix gently by vortexing. 
+5.  Incubate with gentle agitation for several hours. Typically, 4 hours is sufficient though lysis can be carried out overnight as well without noticeable damage to the specimen (for beetles). Lysis completion can be confirmed by observation of digested internal tissue as well as increased color (brownish) and opacity of the lysate solution.   
+6.  Add 200µl Buffer AL to the digestion buffer (lysate) and vortex.  
+7.  Add 200µl 100% ethanol to the digestion buffer (lysate) and vortex. 
+8.  Pipet the lysate mixture from step 7 (including any precipitate, should be 700µl) into the DNeasy Mini spin column placed in a 2 ml collection tube.  
+	a.  Add 1mL 100% ethanol to completely submerge the head and prothorax left behind in the microcentrifuge tube. Drain off and replace with another 1mL ethanol after extraction.  
+9.  Centrifuge lysate at =6000 x g (8000 rpm) for 1 min. Discard flow-through and collection tube. 
+10. Place the DNeasy Mini spin column from step 9 into a new 2 ml collection tube, add 500 µl Buffer AW1, and centrifuge for 1 min at =6000 x g (8000 rpm). Discard flow-through and collection tube. 
+11. Place the DNeasy Mini spin column in a new 2 ml collection tube, add 500 µl Buffer AW2, and centrifuge for 3 min at 20,000 x g (14,000 rpm) to dry the DNeasy membrane. Discard flow-through and collection tube. 
+12. Place the DNeasy Mini spin column in a clean, labeled 1.5 ml microcentrifuge tube and pipet 100 µl Buffer AE warmed to 70 C directly onto the DNeasy membrane. Incubate at room temperature for 10min, and then centrifuge for 1 min at =6000 x g (8000 rpm) to elute. 
+13. Repeat elution step 12 with a new microcentrifuge tube, incubating with warm Buffer AE for 30min. 

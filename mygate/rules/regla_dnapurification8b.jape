@@ -1,0 +1,14 @@
+Phase: thirdstep
+Input: Token DNA_purification_reagent sample_DNA_extraction 
+Options: control = first
+Rule: thirdstep8b
+(
+{DNA_purification_reagent.majorType == "reagents"}
+(({Token})[0,20])
+{sample_DNA_extraction.majorType == "samples"}
+(({Token})*)
+({Token.string == "."})
+):dnapurification8b
+
+--> 
+:dnapurification8b.Dnapurification8b = {type = "dnapurification8b"}

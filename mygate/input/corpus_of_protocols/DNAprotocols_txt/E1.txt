@@ -1,0 +1,19 @@
+ARABIDOPSIS THALIANA DNA ISOLATION PROCEDURE
+
+Procedure
+Procedure: (all steps at 0-4C unless indicated)
+1.	Harvest 100 g tissue (plants can be any age up to just bolting), which has been destarched by placing in the dark for 48 hr). 
+2.	After washing (ice cold H2O), chop into small pieces with a single-edge razor blade. 
+3.	Add ice cold diethylether until it covers the tissue and stir for 3 min., pour into Buchner funnel to remove ether, rinse with cold H2O. 
+4.	Add 300 ml of buffer A (1 M sucrose, 10 mM Tris-HCl (pH 7.2), 5 mM MgCl2, 5 mM 2-mercaptoethanol and 400ug/ml ethidium bromide). Grind tissue with a Polytron (Brinkmann) at medium speed for 1-3 min. until tissue is homogenized. 
+5.	Filter through 4 layers of cheesecloth, then through 2 layers of Miracloth (Calbiochem). 
+6.	Centrifuge 9000 rpm for 15 min. in a Beckman JA-10 rotor. 
+7.	Resuspend pellet in 50 ml of buffer A plus 0.5% Triton X-100 (Sigma) with a homogenizer (55 ml glass pestle unit). 
+8.	Centrifuge in two 30 ml Corex tubes at 8000 rpm for 10 min. in a Beckman JS-13 rotor. 
+9.	Repeat step 7, centrifuge at 6000 rpm for 10 min in a JS-13 rotor. 
+10.	Resuspend pellet in 10 ml of buffer A plus 0.5% Triton X-100. Layer crude nuclei over two discontinuous Percoll gradients constructed in 30 ml Corex tubes as follows: 5 ml layers containing from the bottom upward 60% (v/v) and 35% (v/v) percoll A:buffer A. Percoll A is made as follows: to 34.23 g sucrose add 1.0 ml of 1 M Tris-HCl (pH 7.2), 0.5 ml of 1 M MgCl2, 34ul 2-mercaptoethanol, and Percoll to a final volume of 100 ml. Centrifuge in a JS-13 rotor at 2000 rpm after 5 min. increase speed to 8000 rpm and centrifuge an additional 15 min. Starch will pellet, the bulk of the nuclei will band at 35%-65% interface and intact cloroplasts will band at the 0-35% interface. 
+11.	The zone containing the nuclei is collected, diluted with 5-10 volumes of buffer A and pelleted by centrifugation at 8000 rpm for 10 min. in a JS-13 rotor. Nuclei can be visualized by light microscopy after staining with 1/5-1/10 volume 1% Azure C (Sigma) in buffer A minus ethidium bromide. 
+12.	Resuspend nuclei in 5-10 ml of 250 mM sucrose, 10 mM Tris-HCl (pH 8.0), 5 mM MgCl2 by homogenization. 
+13.	Add EDTA to 20 mM and TE (10 mM Tris HCl (pH 8.0), 1 mM EDTA) to a final volume of 20 ml. Add 1 ml of 20% (w/v) Sarkosyl. Add proteinase K to 50-100ug/ml and digest at 55C until the solution clarifies (2 hr). 
+14.	Add 21 g CsCl, when dissolved add 1 ml of 10 mg/ml ethidium bromide and transfer to two quick-seal Ti 70.1 tubes and centrifuge at 45000 rpm at 20C in a Beckman Ti70.1 rotor for 36-48 hours. 
+15.	Remove banded DNA, extract with 1 volume of 3 M CsCl saturated isopropanol, repeat extraction until all ethidium bromide is removed, and dialyze four times against 1 L of TE plus 10 mM NaCl. 

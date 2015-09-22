@@ -1,0 +1,18 @@
+Optimization of DNA Extraction for RAPD and ISSR Analysis of Arbutus unedo L. Leaves (Int. J. Mol. Sci)
+
+1.	Ground leaves tissues (approximately 100 mg) were transferred to a 2 mL micro tube containing 1.3 mL of pre-heated (70 C) extraction buffer. 
+2.	The tube was mixed by inversion and left to stand for 2 min at room temperature. 
+3.	After that, 10 µ L of proteinase K (20 mg/mL) was added and the mixture was mixed again by inversion for 1 min. 
+4.	The mixture was incubated at 70 C  in a water bath for 30 min with occasional mixing. 
+5.	The tube was centrifuged at 10,000 rpm, for 5 min at 4 C and  the supernatant was transferred to a clean 2 mL micro tube. 
+6.	An equal volume of phenol:chloroform:isoamyl alcohol (25:24:1) was added, mixed by using gentle inversion for 5 min, 
+7.	incubated on ice for 10 min and centrifuged at 10,000 rpm for 5 min at 4 C. 
+8.	The supernatant was transferred to a clean 2 mL micro tube and an equal volume of chloroform: isoamyl alcohol (24:1) was added. 
+9.	The tube was then gently inverted  for 5 min, incubated on ice for 10 min and centrifuged at 10,000 rpm for 5 min at 4  C. 
+10.	The upper aqueous phase was transferred to a clean 1.5 mL micro tube and DNA was precipitated by adding one volume of ice-cold iso-propanol (-20  C), 
+11.	mixed by gentle inversion until the homogeny phase appeared, 
+12.	incubated at -20 C for 1 hour, and centrifuged at 13,000 rpm for 20 min at 4 C. 
+13.	The obtained pellet was washed with 500 µ L of ice-cold 70% ethanol and centrifuged again at 13,000 rpm for 5 min at 4 C. 
+14.	The supernatant was discarded and the pellet was air-dry for 20 min at room temperature. 
+15.	Finally, the pellet was re-suspended in 50 µL of deionized water or TE buffer and stored at -20 C. 
+16.	Sometimes DNA could be contaminated with RNA. In  this case, it is necessary to perform an additional step, by adding 1 µ L RNase-A (10 mg/mL) to the sample and to incubate it for 30 min at 37 C.

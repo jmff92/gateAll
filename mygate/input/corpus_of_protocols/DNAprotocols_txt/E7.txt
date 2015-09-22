@@ -1,0 +1,26 @@
+DNA EXTRACTION OF RICE (Based on method of Dellaporta)
+
+Collection and storage of tissue
+1.	Harvest leaves from greenhouse. It is preferable to use young leaves without necrotic areas or lesions.
+2.	Collect the leaves into aluminium foil with the tag identifying the sample. Place the samples in a container with ice to keep samples cool. Make sure samples do not get wet.
+3.	The samples may be frozen and stored at -80C or place leaf samples in liquid nitrogen.
+4.	The tissue is grinded in a mortar using a pestle and liquid nitrogen until very fine powder is obtained. In this step, plant cells are disrupted to release the DNA.
+5.	0,2 grams of the grinded tissue are collected into a microcentrifuge tube. 
+6.	The samples may be frozen and stored at -80C or place leaf samples in a container with ice.
+
+Extraction of DNA
+1.	Add 940ul of pre-heated buffer solution (65C) to each sample. This buffer solution contains detergent and salts, that help to the solubilization of proteins and disruption of cell walls. 
+2.	Incubate the samples in water bath at 65C for 30 minutes and shake every 5-10 minutes. 
+3.	To remove proteins and carbohydrates add 400ul of 5M Potassium Acetate (KCl), ice-cold.
+4.	Incubate the samples in an ice bath for 15 minutes while shaking.
+5.	Centrifugate at 10.000 rpm for 10 minutes. 
+6.	Transfer supernatant (which contains the DNA) to a new 2ml microcentrifuge tube.
+7.	To precipitate the DNA add ice-cold 700ul Isopropropanol and 100ul 3M Sodium acetate pH 5.2.
+8.	Incubate at -20C, for 45 minutes or 1 hour. (at this step DNA extraction can be stopped and continued next day if necessary)
+9.	Centrifugate at 13.000 rpm for 5 minutes. 
+10.	To clean the DNA, Add 400ul ethanol 70%, ice-cold. 
+11.	Centrifugate at 12.000 rpm for 3 minutes. 
+12.	Discard the supernatant and dry the pellet at room temperature, in a speedvac for 10 min. or incubate for 30 min to 37C.
+13.	Dissolve the DNA in 60ul of TE buffer with RNAse enzyme to remove RNA. 
+14.	Once diluted, DNA quality can be checked in agarose gels and its concentration can be determined.
+

@@ -1,0 +1,264 @@
+sucrose$uri=purl.obolibrary.org/obo/CHEBI_17992$subClassOf=purl.obolibrary.org/obo/DisaccharideReagent$IAO_0000115=Sucrose is a disaccharide formed by glucose and fructose units joined by an acetal oxygen bridge from hemiacetal of glucose to the hemiketal of the fructose.$IAO_0000412=CHEBI$IAO_0000118=Sucrose;beta-D-fructofuranosyl;alpha-D-glucopyranoside;SUCROSE;sacarosa;beta-D-Fruf-(21)-alpha-D-Glcp;Saccharose;table sugar;1-alpha-D-Glucopyranosyl-2-beta-D-fructofuranoside;Sacharose;C12H22O11;OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O;InChIKey=CZMRCDWAGMRECN-UGDNZRGBSA-N;InChI=1S/C12H22O11/c13-1-4-6(16)8(18)9(19)11(21-4)23-12(3-15)10(20)7(17)5(2-14)22-12/h4-11,13-20H,1-3H2/t4-,5-,6-,7-,8+,9-,10+,11-,12+/m1/s1;Cane sugar;White sugar$
+Sucrose$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+beta-D-fructofuranosyl$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+alpha-D-glucopyranoside$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+SUCROSE$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+sacarosa$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+beta-D-Fruf-(21)-alpha-D-Glcp$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+Saccharose$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+table sugar$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+1-alpha-D-Glucopyranosyl-2-beta-D-fructofuranoside$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+Sacharose$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+C12H22O11$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+InChIKey=CZMRCDWAGMRECN-UGDNZRGBSA-N$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+InChI=1S/C12H22O11/c13-1-4-6(16)8(18)9(19)11(21-4)23-12(3-15)10(20)7(17)5(2-14)22-12/h4-11,13-20H,1-3H2/t4-,5-,6-,7-,8+,9-,10+,11-,12+/m1/s1$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+Cane sugar$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+White sugar$synonymousLabel=sucrose$synonymousURI=purl.obolibrary.org/obo/CHEBI_17992
+nucleic acid reagent$uri=purl.obolibrary.org/obo/ERO_0000630$subClassOf=purl.obolibrary.org/obo/CHEBI_33893$IAO_0000112=A primer$IAO_0000115=Reagent that is a polymer comprised of nucleotides, each of which consists of three components: a nitrogenous heterocyclic base, which is either a purine or a pyrimidine; a pentose sugar; and a phosphate group.$IAO_0000412=ERO$IAO_0000119=en.wikipedia.org/wiki/Nucleic_acid
+DNA reagent$uri=purl.obolibrary.org/obo/ERO_0001201$subClassOf=purl.obolibrary.org/obo/ERO_0000630$IAO_0000112=A primer.$IAO_0000115=A reagent that is a polymer comprised of DNA nucleotides.$IAO_0000412=ERO$IAO_0000119=PERSON: Matthew Brush
+DNA oligonucleotide$uri=purl.obolibrary.org/obo/ERO_0001203$subClassOf=purl.obolibrary.org/obo/ERO_0001201$IAO_0000112=A primer.$IAO_0000115=A DNA reagent consisting of a short, linear DNA polymer, typically with 100 or fewer bases.$IAO_0000412=ERO$IAO_0000118=DNA oligo$
+DNA oligo$synonymousLabel=DNA oligonucleotide$synonymousURI=purl.obolibrary.org/obo/ERO_0001203
+cetyltrimethylammonium bromide$uri=purl.obolibrary.org/obo/CHEBI_3567$subClassOf=purl.obolibrary.org/obo/QuaternaryAmmoniumSaltReagent$IAO_0000115=The organic bromide salt that is the bromide salt of cetyltrimethylammonium; one of the components of the topical antiseptic cetrimide.$IAO_0000412=CHEBI$IAO_0000118=Cetyltrimethylammonium bromide;N,N,N-trimethylhexadecan-1-aminium bromide;N-Hexadecyl-N,N,N-trimethylammonium bromide;Cetyl trimethyl ammonium bromide;Bromuro de cetrimonio;n-Hexadecyltrimethylammonium bromide;N,N,N-Trimethylcetylammonium bromide;Cetrimide;Trimethylhexadecylammonium bromide;[Br-].CCCCCCCCCCCCCCCC[N+](C)(C)C;N-Hexadecyltrimethylammonium bromide;Bromat;Cee dee;Hexadecyl-trimethyl-ammonium bromide;N-Cetyltrimethylammonium bromide;Cetrimonium bromide;Ctmab;hexadecyltrimethylammonium bromide;N,N,N-Trimethyl-1-hexadecanaminium bromide;C19H42BrN;Trimethylcetylammonium bromide;Cetab;InChIKey=LZZYPRNAOMGNLH-UHFFFAOYSA-M;CTAB;Palmityltrimethyl ammonium bromide;C19H42N.Br;Cetrimonii bromidum;Bromure de cetrimonium;cetrimide;Centimide$
+Cetyltrimethylammonium bromide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+N,N,N-trimethylhexadecan-1-aminium bromide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+N-Hexadecyl-N,N,N-trimethylammonium bromide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+Cetyl trimethyl ammonium bromide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+Bromuro de cetrimonio$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+n-Hexadecyltrimethylammonium bromide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+N,N,N-Trimethylcetylammonium bromide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+Cetrimide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+Trimethylhexadecylammonium bromide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+[Br-].CCCCCCCCCCCCCCCC[N+](C)(C)C$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+N-Hexadecyltrimethylammonium bromide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+Bromat$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+Cee dee$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+Hexadecyl-trimethyl-ammonium bromide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+N-Cetyltrimethylammonium bromide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+Cetrimonium bromide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+Ctmab$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+hexadecyltrimethylammonium bromide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+N,N,N-Trimethyl-1-hexadecanaminium bromide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+C19H42BrN$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+Trimethylcetylammonium bromide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+Cetab$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+InChIKey=LZZYPRNAOMGNLH-UHFFFAOYSA-M$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+CTAB$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+Palmityltrimethyl ammonium bromide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+C19H42N.Br$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+Cetrimonii bromidum$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+Bromure de cetrimonium$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+cetrimide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+Centimide$synonymousLabel=cetyltrimethylammonium bromide$synonymousURI=purl.obolibrary.org/obo/CHEBI_3567
+sodium dodecyl sulfate$uri=purl.obolibrary.org/obo/CHEBI_8984$subClassOf=purl.obolibrary.org/obo/AlkylSulfateReagent$IAO_0000115=An alkyl sulfate that has formula C12H25NaO4S.$IAO_0000412=CHEBI$IAO_0000118=sodium dodecylsulfate;C12H25O4S.Na;C12H25NaO4S;SDS;sodium lauryl sulphate;sodium dodecyl sulphate;SLS;[Na+].CCCCCCCCCCCCOS([O-])(=O)=O;Sodium lauryl sulfate;InChIKey=DBMJMQXJHONAFJ-UHFFFAOYSA-M$
+sodium dodecylsulfate$synonymousLabel=sodium dodecyl sulfate$synonymousURI=purl.obolibrary.org/obo/CHEBI_8984
+C12H25O4S.Na$synonymousLabel=sodium dodecyl sulfate$synonymousURI=purl.obolibrary.org/obo/CHEBI_8984
+C12H25NaO4S$synonymousLabel=sodium dodecyl sulfate$synonymousURI=purl.obolibrary.org/obo/CHEBI_8984
+SDS$synonymousLabel=sodium dodecyl sulfate$synonymousURI=purl.obolibrary.org/obo/CHEBI_8984
+sodium lauryl sulphate$synonymousLabel=sodium dodecyl sulfate$synonymousURI=purl.obolibrary.org/obo/CHEBI_8984
+sodium dodecyl sulphate$synonymousLabel=sodium dodecyl sulfate$synonymousURI=purl.obolibrary.org/obo/CHEBI_8984
+SLS$synonymousLabel=sodium dodecyl sulfate$synonymousURI=purl.obolibrary.org/obo/CHEBI_8984
+[Na+].CCCCCCCCCCCCOS([O-])(=O)=O$synonymousLabel=sodium dodecyl sulfate$synonymousURI=purl.obolibrary.org/obo/CHEBI_8984
+Sodium lauryl sulfate$synonymousLabel=sodium dodecyl sulfate$synonymousURI=purl.obolibrary.org/obo/CHEBI_8984
+InChIKey=DBMJMQXJHONAFJ-UHFFFAOYSA-M$synonymousLabel=sodium dodecyl sulfate$synonymousURI=purl.obolibrary.org/obo/CHEBI_8984
+Triton X-100$uri=purl.obolibrary.org/obo/CHEBI_9750$subClassOf=purl.obolibrary.org/obo/PolyEthyleneGlycolReagent$IAO_0000115=Triton X-100 is a A poly ethylene glycol terminated with a 4-(2,4,4-trimethylpentan-3-yl) phenyl group at one end.$IAO_0000412=CHEBI$IAO_0000118=Poly(oxyethylene)-p-tert-octylphenyl ether;Polyethylene glycol mono(p-(1,1,3,3-tetramethylbutyl)phenyl) ether;octoxinolum;Peg (p-(1,1,3,3-tetramethylbutyl)phenyl) ether;Peg 4-isooctylphenyl ether;Polyoxyethylene mono(octylphenyl) ether;alpha-(4-(1,1,3,3-Tetramethylbutyl)phenyl)-omega-hydroxypoly(oxy-1,2-ethanediyl);(C2H4O)nC14H22O;4-tert-Octylphenyl peg ether;Polyethylene glycol mono(p-tert-octylphenyl) ether;Peg 4-tert-octylphenyl ether;Polyoxyethylene 4-(1,1,3,3-tetramethylbutyl)phenyl ether;4-(1,1,3,3-Tetramethylbutyl)phenyl hydroxypoly(oxyethylene);octoxinol;Octoxynol 9;Triton X - 100;triton X-100;triton X - 100;triton x-100;triton x - 100;Triton-X 100;triton-X 100$
+Poly(oxyethylene)-p-tert-octylphenyl ether$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+Polyethylene glycol mono(p-(1,1,3,3-tetramethylbutyl)phenyl) ether$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+octoxinolum$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+Peg (p-(1,1,3,3-tetramethylbutyl)phenyl) ether$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+Peg 4-isooctylphenyl ether$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+Polyoxyethylene mono(octylphenyl) ether$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+alpha-(4-(1,1,3,3-Tetramethylbutyl)phenyl)-omega-hydroxypoly(oxy-1,2-ethanediyl)$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+(C2H4O)nC14H22O$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+4-tert-Octylphenyl peg ether$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+Polyethylene glycol mono(p-tert-octylphenyl) ether$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+Peg 4-tert-octylphenyl ether$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+Polyoxyethylene 4-(1,1,3,3-tetramethylbutyl)phenyl ether$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+4-(1,1,3,3-Tetramethylbutyl)phenyl hydroxypoly(oxyethylene)$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+octoxinol$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+Octoxynol 9$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+Triton X - 100$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+triton X-100$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+triton X - 100$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+triton x-100$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+triton x - 100$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+Triton-X 100$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+triton-X 100$synonymousLabel=Triton X-100$synonymousURI=purl.obolibrary.org/obo/CHEBI_9750
+deoxyribonucleoside triphosphate reagent$uri=purl.obolibrary.org/obo/REO_0000421$subClassOf=purl.obolibrary.org/obo/REO_0000458$IAO_0000115=a nucleoside triphosphate reagent containing three phosphate groups bound to a 2'-deoxyribo- sugar ring.$IAO_0000118=dNTP reagent;dNTPs;dNTP mix;Deoxynucleoside triphosphates;deoxynucleoside triphosphates;Deoxynucleotide triphosphates;deoxynucleotide triphosphates$
+dNTP reagent$synonymousLabel=deoxyribonucleoside triphosphate reagent$synonymousURI=purl.obolibrary.org/obo/REO_0000421
+dNTPs$synonymousLabel=deoxyribonucleoside triphosphate reagent$synonymousURI=purl.obolibrary.org/obo/REO_0000421
+dNTP mix$synonymousLabel=deoxyribonucleoside triphosphate reagent$synonymousURI=purl.obolibrary.org/obo/REO_0000421
+Deoxynucleoside triphosphates$synonymousLabel=deoxyribonucleoside triphosphate reagent$synonymousURI=purl.obolibrary.org/obo/REO_0000421
+deoxynucleoside triphosphates$synonymousLabel=deoxyribonucleoside triphosphate reagent$synonymousURI=purl.obolibrary.org/obo/REO_0000421
+Deoxynucleotide triphosphates$synonymousLabel=deoxyribonucleoside triphosphate reagent$synonymousURI=purl.obolibrary.org/obo/REO_0000421
+deoxynucleotide triphosphates$synonymousLabel=deoxyribonucleoside triphosphate reagent$synonymousURI=purl.obolibrary.org/obo/REO_0000421
+nucleoside triphosphate reagent$uri=purl.obolibrary.org/obo/REO_0000458$subClassOf=purl.obolibrary.org/obo/CHEBI_33893$IAO_0000115=A nucleoside triphosphate reagent is a reagent that is a nucleoside containing three phosphate groups bound to its sugar ring.$IAO_0000118=NTP reagent$
+NTP reagent$synonymousLabel=nucleoside triphosphate reagent$synonymousURI=purl.obolibrary.org/obo/REO_0000458
+alkanethiol reagent$uri=purl.org/net/SMARTprotocol#ALkanethiolReagent$subClassOf=purl.org/net/SMARTprotocol#CHEBI_33893$IAO_0000115=An alkanethiol is a compound in which a sulfanyl group, -SH, is attached to an alkyl group.$IAO_0000119=CHEBI
+alkyl sulfate reagent$uri=purl.org/net/SMARTprotocol#AlkylSulfateReagent$subClassOf=purl.org/net/SMARTprotocol#CHEBI_33893$IAO_0000112=A sodium dodecyl sulfate.$IAO_0000115=Alkyl sulfate reagent is a reagent commonly used as an anionic surfactant in liquid soaps, detergents to clean wool, surface cleaners, as active ingredients in laundry detergents, shampoos and conditioners.$IAO_0000118=OS(=O)(=O)O[*];HO4SR;alkyl sulfates$IAO_0000119=en.wikipedia.org/wiki/Organosulfate
+OS(=O)(=O)O[*]$synonymousLabel=alkyl sulfate reagent$synonymousURI=purl.org/net/SMARTprotocol#AlkylSulfateReagent
+HO4SR$synonymousLabel=alkyl sulfate reagent$synonymousURI=purl.org/net/SMARTprotocol#AlkylSulfateReagent
+alkyl sulfates$synonymousLabel=alkyl sulfate reagent$synonymousURI=purl.org/net/SMARTprotocol#AlkylSulfateReagent
+disaccharide reagent$uri=purl.org/net/SMARTprotocol#DisaccharideReagent$subClassOf=purl.org/net/SMARTprotocol#CHEBI_33893$IAO_0000115=A compound in which two monosaccharides are joined by a glycosidic bond.$IAO_0000118=Disaccharide;disaccharides;Disaccharid;disacarido;disacaridos;Disacharid$IAO_0000119=CHEBI
+Disaccharide$synonymousLabel=disaccharide reagent$synonymousURI=purl.org/net/SMARTprotocol#DisaccharideReagent
+disaccharides$synonymousLabel=disaccharide reagent$synonymousURI=purl.org/net/SMARTprotocol#DisaccharideReagent
+Disaccharid$synonymousLabel=disaccharide reagent$synonymousURI=purl.org/net/SMARTprotocol#DisaccharideReagent
+disacarido$synonymousLabel=disaccharide reagent$synonymousURI=purl.org/net/SMARTprotocol#DisaccharideReagent
+disacaridos$synonymousLabel=disaccharide reagent$synonymousURI=purl.org/net/SMARTprotocol#DisaccharideReagent
+Disacharid$synonymousLabel=disaccharide reagent$synonymousURI=purl.org/net/SMARTprotocol#DisaccharideReagent
+dithiothreitol$uri=purl.org/net/SMARTprotocol#Dithiothreitol$subClassOf=purl.org/net/SMARTprotocol#GlycolReagent$IAO_0000112=DTT is used as a reducing or "deprotecting" agent for thiolated DNA. DTT is frequently used to reduce the disulfide bonds of proteins. DTT can also be used as an oxidizing agent.$IAO_0000115=Dithiothreitol (DTT) is the common name for a small-molecule redox reagent also known as Cleland's reagent. DTT's formula is C4H10O2S2. Its name derives from the four-carbon sugar, threose. DTT has an epimeric ('sister') compound, dithioerythritol (DTE).$IAO_0000118=rel-(2R,3R)-1,4-disulfanylbutane-2,3-diol;1,4-Dithiothreitol;1,4-dithiothreitol;Cleland's reagent;rac-Dithiothreitol;threo-1,4-Dimercapto-2,3-butanediol;DTT;(R*,R*)-1,4-dimercapto-2,3-butanediol;Dithiotreitol;DTL;OC(CS)C(O)CS;InChI=1S/C4H10O2S2/c5-3(1-7)4(6)2-8/h3-8H,1-2H2;Dithiothreitol;C4H10O2S2;InChIKey=VHJLVAABSRFDPM-UHFFFAOYSA-N;DL-threo-1,4-Dimercapto-2,3-butanediol$IAO_0000119=en.wikipedia.org/wiki/Dithiothreitol
+rel-(2R,3R)-1,4-disulfanylbutane-2,3-diol$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+1,4-Dithiothreitol$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+1,4-dithiothreitol$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+Cleland's reagent$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+rac-Dithiothreitol$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+threo-1,4-Dimercapto-2,3-butanediol$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+DTT$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+(R*,R*)-1,4-dimercapto-2,3-butanediol$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+Dithiotreitol$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+DTL$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+OC(CS)C(O)CS$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+InChI=1S/C4H10O2S2/c5-3(1-7)4(6)2-8/h3-8H,1-2H2$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+Dithiothreitol$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+C4H10O2S2$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+InChIKey=VHJLVAABSRFDPM-UHFFFAOYSA-N$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+DL-threo-1,4-Dimercapto-2,3-butanediol$synonymousLabel=dithiothreitol$synonymousURI=purl.org/net/SMARTprotocol#Dithiothreitol
+endopeptidase K$uri=purl.org/net/SMARTprotocol#EndopeptidaseK$subClassOf=purl.org/net/SMARTprotocol#EnzymeReagent$IAO_0000112=Proteinase K is commonly used in molecular biology to digest protein and remove contamination from preparations of nucleic acid.$IAO_0000115=An enzyme that catalyzes the hydrolysis of keratin, and of other proteins with subtilisin-like specificity. It hydrolyses peptide amides. Endopeptidase K is from the mold Tritirachium album Limber.$IAO_0000118=Proteinase K;Endopeptidase K;Protease K;Tritirachium Alkaline Proteinase;Tritirachium album serine proteinase;Tritirachium album proteinase K$IAO_0000119=National Drug File-Reference Terminology
+Proteinase K$synonymousLabel=endopeptidase K$synonymousURI=purl.org/net/SMARTprotocol#EndopeptidaseK
+Endopeptidase K$synonymousLabel=endopeptidase K$synonymousURI=purl.org/net/SMARTprotocol#EndopeptidaseK
+Protease K$synonymousLabel=endopeptidase K$synonymousURI=purl.org/net/SMARTprotocol#EndopeptidaseK
+Tritirachium Alkaline Proteinase$synonymousLabel=endopeptidase K$synonymousURI=purl.org/net/SMARTprotocol#EndopeptidaseK
+Tritirachium album serine proteinase$synonymousLabel=endopeptidase K$synonymousURI=purl.org/net/SMARTprotocol#EndopeptidaseK
+Tritirachium album proteinase K$synonymousLabel=endopeptidase K$synonymousURI=purl.org/net/SMARTprotocol#EndopeptidaseK
+enzyme reagent$uri=purl.org/net/SMARTprotocol#EnzymeReagent$subClassOf=purl.org/net/SMARTprotocol#CHEBI_33893$IAO_0000115=Enzymes are biological molecules that possess catalytic activity. They may occur naturally or be synthetically created. Enzymes are usually proteins, however CATALYTIC RNA and CATALYTIC DNA molecules have also been identified.$IAO_0000118=Biocatalysts;Enzymes$IAO_0000119=MESH
+Biocatalysts$synonymousLabel=enzyme reagent$synonymousURI=purl.org/net/SMARTprotocol#EnzymeReagent
+Enzymes$synonymousLabel=enzyme reagent$synonymousURI=purl.org/net/SMARTprotocol#EnzymeReagent
+glycol reagent$uri=purl.org/net/SMARTprotocol#GlycolReagent$subClassOf=purl.org/net/SMARTprotocol#CHEBI_33893$IAO_0000115=A diol in which the two hydroxy groups are on different carbon atoms, usually but not necessarily adjacent.$IAO_0000118=Glykol;glykol;glycols$IAO_0000119=CHEBI
+Glykol$synonymousLabel=glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#GlycolReagent
+glykol$synonymousLabel=glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#GlycolReagent
+glycols$synonymousLabel=glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#GlycolReagent
+poly ethylene glycol reagent$uri=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent$subClassOf=purl.org/net/SMARTprotocol#CHEBI_33893$IAO_0000115=poly ethylene glycol is a polymer composed of repeating ethyleneoxy units.$IAO_0000118=polyethylene oxide;PEO;alpha,omega-hydroxypoly(ethylene oxide);Macrogol;alpha-hydro-omega-hydroxypoly(oxy-1,2-ethanediyl);Polyethylene glycol;1,2-ethanediol homopolymer;Polyaethylenglykole;Glycols, polyethylene;polyoxyethylene;polyethylene glycols;ethylene glycol homopolymer;(C2H4O)n;poly(ethyleneoxide);polyethylene glycol;alpha-hydro-omega-hydroxypoly(oxyethylene);Polyaethylenglykol;poly(oxyethylene);PEG;POE$IAO_0000119=CHEBI
+polyethylene oxide$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+PEO$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+alpha,omega-hydroxypoly(ethylene oxide)$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+Macrogol$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+alpha-hydro-omega-hydroxypoly(oxy-1,2-ethanediyl)$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+Polyethylene glycol$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+1,2-ethanediol homopolymer$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+Polyaethylenglykole$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+Glycols, polyethylene$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+polyoxyethylene$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+polyethylene glycols$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+ethylene glycol homopolymer$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+(C2H4O)n$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+poly(ethyleneoxide)$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+polyethylene glycol$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+alpha-hydro-omega-hydroxypoly(oxyethylene)$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+Polyaethylenglykol$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+poly(oxyethylene)$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+PEG$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+POE$synonymousLabel=poly ethylene glycol reagent$synonymousURI=purl.org/net/SMARTprotocol#PolyEthyleneGlycolReagent
+quaternary ammonium salt reagent$uri=purl.org/net/SMARTprotocol#QuaternaryAmmoniumSaltReagent$subClassOf=purl.org/net/SMARTprotocol#CHEBI_33893$IAO_0000115=Derivatives of ammonium compounds, (NH4(+))Y(-), in which all four of the hydrogens bonded to nitrogen have been replaced with univalent (usually hydrocarbyl) groups.$IAO_0000118=quaternary ammonium compounds;quaternary ammonium salt;quaternary ammonium salts;quaternary ammonium compound$IAO_0000119=CHEBI
+quaternary ammonium compounds$synonymousLabel=quaternary ammonium salt reagent$synonymousURI=purl.org/net/SMARTprotocol#QuaternaryAmmoniumSaltReagent
+quaternary ammonium salt$synonymousLabel=quaternary ammonium salt reagent$synonymousURI=purl.org/net/SMARTprotocol#QuaternaryAmmoniumSaltReagent
+quaternary ammonium salts$synonymousLabel=quaternary ammonium salt reagent$synonymousURI=purl.org/net/SMARTprotocol#QuaternaryAmmoniumSaltReagent
+quaternary ammonium compound$synonymousLabel=quaternary ammonium salt reagent$synonymousURI=purl.org/net/SMARTprotocol#QuaternaryAmmoniumSaltReagent
+sarcosine reagent$uri=purl.org/net/SMARTprotocol#SarcosineReagent$subClassOf=purl.org/net/SMARTprotocol#CHEBI_33893$IAO_0000115=A N-alkylglycine that is the N-methyl derivative of glycine. It is an intermediate in the metabolic pathway of glycine.$IAO_0000118=SARCOSINE;Sarcosine;MeGly;CNCC(O)=O;(methylamino)acetic acid;InChIKey=FSYKKLYZXJSNPZ-UHFFFAOYSA-N;sarcosinic acid;Sar;N-Methylglycine;(methylamino)ethanoic acid;InChI=1S/C3H7NO2/c1-4-2-3(5)6/h4H,2H2,1H3,(H,5,6);methylaminoacetic acid;N-methylaminoacetic acid;C3H7NO2$IAO_0000119=CHEBI
+SARCOSINE$synonymousLabel=sarcosine reagent$synonymousURI=purl.org/net/SMARTprotocol#SarcosineReagent
+Sarcosine$synonymousLabel=sarcosine reagent$synonymousURI=purl.org/net/SMARTprotocol#SarcosineReagent
+MeGly$synonymousLabel=sarcosine reagent$synonymousURI=purl.org/net/SMARTprotocol#SarcosineReagent
+CNCC(O)=O$synonymousLabel=sarcosine reagent$synonymousURI=purl.org/net/SMARTprotocol#SarcosineReagent
+(methylamino)acetic acid$synonymousLabel=sarcosine reagent$synonymousURI=purl.org/net/SMARTprotocol#SarcosineReagent
+InChIKey=FSYKKLYZXJSNPZ-UHFFFAOYSA-N$synonymousLabel=sarcosine reagent$synonymousURI=purl.org/net/SMARTprotocol#SarcosineReagent
+sarcosinic acid$synonymousLabel=sarcosine reagent$synonymousURI=purl.org/net/SMARTprotocol#SarcosineReagent
+Sar$synonymousLabel=sarcosine reagent$synonymousURI=purl.org/net/SMARTprotocol#SarcosineReagent
+N-Methylglycine$synonymousLabel=sarcosine reagent$synonymousURI=purl.org/net/SMARTprotocol#SarcosineReagent
+(methylamino)ethanoic acid$synonymousLabel=sarcosine reagent$synonymousURI=purl.org/net/SMARTprotocol#SarcosineReagent
+InChI=1S/C3H7NO2/c1-4-2-3(5)6/h4H,2H2,1H3,(H,5,6)$synonymousLabel=sarcosine reagent$synonymousURI=purl.org/net/SMARTprotocol#SarcosineReagent
+methylaminoacetic acid$synonymousLabel=sarcosine reagent$synonymousURI=purl.org/net/SMARTprotocol#SarcosineReagent
+N-methylaminoacetic acid$synonymousLabel=sarcosine reagent$synonymousURI=purl.org/net/SMARTprotocol#SarcosineReagent
+C3H7NO2$synonymousLabel=sarcosine reagent$synonymousURI=purl.org/net/SMARTprotocol#SarcosineReagent
+Sodium lauroyl sarcosinate$uri=purl.org/net/SMARTprotocol#SodiumLauroylSarcosinate$subClassOf=purl.org/net/SMARTprotocol#SarcosineReagent$IAO_0000115=Sodium lauroyl sarcosinate also known as sarkosyl, is an ionic surfactant derived from sarcosine. In molecular biology experiments, sarkosyl is used to inhibit the initiation of DNA transcription.$IAO_0000118=sarkosyl;Sarkosyl;sarcosyl;Sarcosyl;N-Lauroylsarcosine;N-lauryl-sarcosine;N-Dodecanoyl-N-methylglycine$IAO_0000119=en.wikipedia.org/wiki/Sodium_lauroyl_sarcosinate
+sarkosyl$synonymousLabel=Sodium lauroyl sarcosinate$synonymousURI=purl.org/net/SMARTprotocol#SodiumLauroylSarcosinate
+Sarkosyl$synonymousLabel=Sodium lauroyl sarcosinate$synonymousURI=purl.org/net/SMARTprotocol#SodiumLauroylSarcosinate
+sarcosyl$synonymousLabel=Sodium lauroyl sarcosinate$synonymousURI=purl.org/net/SMARTprotocol#SodiumLauroylSarcosinate
+Sarcosyl$synonymousLabel=Sodium lauroyl sarcosinate$synonymousURI=purl.org/net/SMARTprotocol#SodiumLauroylSarcosinate
+N-Lauroylsarcosine$synonymousLabel=Sodium lauroyl sarcosinate$synonymousURI=purl.org/net/SMARTprotocol#SodiumLauroylSarcosinate
+N-lauryl-sarcosine$synonymousLabel=Sodium lauroyl sarcosinate$synonymousURI=purl.org/net/SMARTprotocol#SodiumLauroylSarcosinate
+N-Dodecanoyl-N-methylglycine$synonymousLabel=Sodium lauroyl sarcosinate$synonymousURI=purl.org/net/SMARTprotocol#SodiumLauroylSarcosinate
+taq polymerase$uri=purl.org/net/SMARTprotocol#TaqPolymerase$subClassOf=purl.org/net/SMARTprotocol#EnzymeReagent$IAO_0000115=Taq polymerase is a heat stable DNA-direct DNA polymerase from the bacteria Thermus aquaticus. It is widely used for the amplification of genes through the process of POLYMERASE CHAIN REACTION.$IAO_0000118=Taq Polymerase;Thermus aquaticus Polymerase;Taq DNA Polymerase;Taq1 Polymerase;Taq pol;Taq Enzyme;Taq enzyme;Taq DNA polymerase;Thermostable DNA polymerase;thermostable DNA polymerase$
+Taq Polymerase$synonymousLabel=taq polymerase$synonymousURI=purl.org/net/SMARTprotocol#TaqPolymerase
+Thermus aquaticus Polymerase$synonymousLabel=taq polymerase$synonymousURI=purl.org/net/SMARTprotocol#TaqPolymerase
+Taq DNA Polymerase$synonymousLabel=taq polymerase$synonymousURI=purl.org/net/SMARTprotocol#TaqPolymerase
+Taq1 Polymerase$synonymousLabel=taq polymerase$synonymousURI=purl.org/net/SMARTprotocol#TaqPolymerase
+Taq pol$synonymousLabel=taq polymerase$synonymousURI=purl.org/net/SMARTprotocol#TaqPolymerase
+Taq Enzyme$synonymousLabel=taq polymerase$synonymousURI=purl.org/net/SMARTprotocol#TaqPolymerase
+Taq enzyme$synonymousLabel=taq polymerase$synonymousURI=purl.org/net/SMARTprotocol#TaqPolymerase
+Taq DNA polymerase$synonymousLabel=taq polymerase$synonymousURI=purl.org/net/SMARTprotocol#TaqPolymerase
+Thermostable DNA polymerase$synonymousLabel=taq polymerase$synonymousURI=purl.org/net/SMARTprotocol#TaqPolymerase
+thermostable DNA polymerase$synonymousLabel=taq polymerase$synonymousURI=purl.org/net/SMARTprotocol#TaqPolymerase
+vinyl polymer macromolecule reagent$uri=purl.org/net/SMARTprotocol#VinylPolymerMacromoleculeReagent$subClassOf=purl.org/net/SMARTprotocol#CHEBI_33893$IAO_0000115=A macromolecule composed of repeating -CHR-CH2- units.$IAO_0000118=vinyl polymer;vinyl polymers$IAO_0000119=CHEBI
+vinyl polymer$synonymousLabel=vinyl polymer macromolecule reagent$synonymousURI=purl.org/net/SMARTprotocol#VinylPolymerMacromoleculeReagent
+vinyl polymers$synonymousLabel=vinyl polymer macromolecule reagent$synonymousURI=purl.org/net/SMARTprotocol#VinylPolymerMacromoleculeReagent
+reagent$uri=purl.obolibrary.org/obo/CHEBI_33893$subClassOf=purl.obolibrary.org/obo/vb342048 _$IAO_0000115=A substance used in a chemical reaction to detect, measure, examine, or produce other substances.$IAO_0000412=ChEBI
+reverse primer$uri=purl.org/obo/owl/SO#SO_0000132$subClassOf=purl.org/obo/owl/SO#Primer$IAO_0000115=A single stranded oligo used for polymerase chain reaction.$IAO_0000412=SNP Ontology$IAO_0000118=reverse primer oligonucleotide;reverse primer sequence;reverse primer;oligo DNA reverse primer;Reverse primer;reverse DNA primer;lower primer;Lower primer$
+reverse primer oligonucleotide$synonymousLabel=reverse primer$synonymousURI=purl.org/obo/owl/SO#SO_0000132
+reverse primer sequence$synonymousLabel=reverse primer$synonymousURI=purl.org/obo/owl/SO#SO_0000132
+reverse primer$synonymousLabel=reverse primer$synonymousURI=purl.org/obo/owl/SO#SO_0000132
+oligo DNA reverse primer$synonymousLabel=reverse primer$synonymousURI=purl.org/obo/owl/SO#SO_0000132
+Reverse primer$synonymousLabel=reverse primer$synonymousURI=purl.org/obo/owl/SO#SO_0000132
+reverse DNA primer$synonymousLabel=reverse primer$synonymousURI=purl.org/obo/owl/SO#SO_0000132
+lower primer$synonymousLabel=reverse primer$synonymousURI=purl.org/obo/owl/SO#SO_0000132
+Lower primer$synonymousLabel=reverse primer$synonymousURI=purl.org/obo/owl/SO#SO_0000132
+primer$uri=purl.org/net/SMARTprotocol#Primer$subClassOf=purl.org/net/SMARTprotocol#ERO_0001203$IAO_0000112=Oligos used in PCR.$IAO_0000115=A primer is a short strand of nucleic acid that serves as a starting point for DNA or RNA synthesis.$IAO_0000118=Primer;primers;Primers$IAO_0000119=en.wikipedia.org/wiki/Primer_%28molecular_biology%29
+Primer$synonymousLabel=primer$synonymousURI=purl.org/net/SMARTprotocol#Primer
+primers$synonymousLabel=primer$synonymousURI=purl.org/net/SMARTprotocol#Primer
+Primers$synonymousLabel=primer$synonymousURI=purl.org/net/SMARTprotocol#Primer
+forward primer$uri=purl.org/obo/owl/SO#SO_0000121$subClassOf=purl.org/obo/owl/SO#Primer$IAO_0000115=A single stranded oligo used for polymerase chain reaction.$IAO_0000412=SNP Ontology$IAO_0000118=forward DNA primer;DNA forward primer;forward primer oligonucleotide;forward primer oligo;forward primer polynucleotide;forward primer;Forward primer;forward primer sequence;Upper primer;upper primer$
+forward DNA primer$synonymousLabel=forward primer$synonymousURI=purl.org/obo/owl/SO#SO_0000121
+DNA forward primer$synonymousLabel=forward primer$synonymousURI=purl.org/obo/owl/SO#SO_0000121
+forward primer oligonucleotide$synonymousLabel=forward primer$synonymousURI=purl.org/obo/owl/SO#SO_0000121
+forward primer oligo$synonymousLabel=forward primer$synonymousURI=purl.org/obo/owl/SO#SO_0000121
+forward primer polynucleotide$synonymousLabel=forward primer$synonymousURI=purl.org/obo/owl/SO#SO_0000121
+forward primer$synonymousLabel=forward primer$synonymousURI=purl.org/obo/owl/SO#SO_0000121
+Forward primer$synonymousLabel=forward primer$synonymousURI=purl.org/obo/owl/SO#SO_0000121
+forward primer sequence$synonymousLabel=forward primer$synonymousURI=purl.org/obo/owl/SO#SO_0000121
+Upper primer$synonymousLabel=forward primer$synonymousURI=purl.org/obo/owl/SO#SO_0000121
+upper primer$synonymousLabel=forward primer$synonymousURI=purl.org/obo/owl/SO#SO_0000121
+polyvinylpyrrolidone$uri=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone$subClassOf=purl.org/net/SMARTprotocol#VinylPolymerMacromoleculeReagent$IAO_0000115=A vinyl polymer composed of repeating -CH2-CR- units where R is a 2-oxopyrrolidin-1-yl group.$IAO_0000119=CHEBI$IAO_0000118=poly(vinylpyrrolidone);poly[1-(2-oxopyrrolidin-1-yl)ethylene];poly(vinylpyrrolidone);N-Vinylbutyrolactam polymer;Vinylpyrrolidone polymer;Poly(N-vinyl-2-pyrrolidone);N-Vinylpyrrolidinone polymer;Poly(1-vinyl-2-pyrrolidinone);Polividone;polyvidone;Poly(N-vinyl-2-pyrrolidinone);1-Vinyl-2-pyrrolidone polymer;1-Ethenyl-2-pyrrolidinone homopolymer;Poly-N-vinyl pyrrolidone;Poly(1-ethenyl-2-pyrrolidinone);Poly(1-vinylpyrrolidinone);Poly(N-vinylbutyrolactam);Poly(1-vinyl-2-pyrrolidinone) homopolymer;PVPON;PVP;poly(N-vinyl pyrrolidone);Crospovidonum;Polyvinylpyrrolidone;Povidone;Polyvidonum;Poly(N-vinylpyrrolidinone);1-Vinyl-2-pyrrolidinone homopolymer;Poly(1-vinyl-2-pyrrolidone);Polividona;polyvinylpyrrolidone;N-Vinyl-2-pyrrolidone polymer;N-Vinylpyrrolidone polymer;Vinylpyrrolidinone polymer;poly(N-vinylpyrrolidone);1-Ethenyl-2-pyrrolidinone polymers;1-Vinyl-2-pyrrolidinone polymers (C6H9NO)n Poly(1-(2-oxo-1-pyrrolidinyl)ethylene)
+poly(vinylpyrrolidone)$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+poly[1-(2-oxopyrrolidin-1-yl)ethylene]$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+poly(vinylpyrrolidone)$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+N-Vinylbutyrolactam polymer$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Vinylpyrrolidone polymer$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Poly(N-vinyl-2-pyrrolidone)$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+N-Vinylpyrrolidinone polymer$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Poly(1-vinyl-2-pyrrolidinone)$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Polividone$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+polyvidone$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Poly(N-vinyl-2-pyrrolidinone)$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+1-Vinyl-2-pyrrolidone polymer$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+1-Ethenyl-2-pyrrolidinone homopolymer$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Poly-N-vinyl pyrrolidone$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Poly(1-ethenyl-2-pyrrolidinone)$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Poly(1-vinylpyrrolidinone)$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Poly(N-vinylbutyrolactam)$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Poly(1-vinyl-2-pyrrolidinone) homopolymer$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+PVPON$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+PVP$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+poly(N-vinyl pyrrolidone)$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Crospovidonum$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Polyvinylpyrrolidone$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Povidone$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Polyvidonum$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Poly(N-vinylpyrrolidinone)$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+1-Vinyl-2-pyrrolidinone homopolymer$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Poly(1-vinyl-2-pyrrolidone)$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Polividona$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+polyvinylpyrrolidone$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+N-Vinyl-2-pyrrolidone polymer$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+N-Vinylpyrrolidone polymer$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+Vinylpyrrolidinone polymer$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+poly(N-vinylpyrrolidone)$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+1-Ethenyl-2-pyrrolidinone polymers$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone
+1-Vinyl-2-pyrrolidinone polymer$synonymousLabel=polyvinylpyrrolidone$synonymousURI=purl.org/net/SMARTprotocol#Polyvinylpyrrolidone

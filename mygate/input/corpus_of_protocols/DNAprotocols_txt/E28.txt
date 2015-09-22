@@ -1,0 +1,16 @@
+Protocol for oomycete DNA extraction suitable for population genetic analysis (springer)
+
+DNA was extracted from 14 samples as follows: 
+1.	800 ul of modified digestion buffer (10 mM Tris/HCl pH 8.0, 50 mM EDTA, 0.5% SDS, 0.5% Triton X-100, 0.5% Tween 20) and 2 ul of 20mg proteinase K/ml (Amresco, USA) were added to a 2 ml microcentrifuge tube containing the frozen ground mycelia. 
+2.	The tube was vortexed for 30 s and incubated at 55C for 30 min, with inversions every 10 min. 
+3.	After the sample was cooled to 27C,
+4.	800 ul chloroform/isoamyl alcohol (24:1, v/v) were added, 
+5.	the tube was vortexed until the two phases formed an emulsion and centrifuged for 10 min at 10,000Xg. 
+6.	The supernatant was transferred to a 2 ml tube, and the chloroform/isoamyl alcohol step was repeated. 
+7.	To precipitate the DNA, the supernatant was transferred to another 2 ml tube containing 1 ml isopropanol. 
+8.	The tube was inverted 5 times and held at -20C for 15 min. 
+9.	A DNA peulet was formed by centrifugation for 10 min at 10,0009g. 
+10.	The supernatant was carefuuly discarded, and the pellet was washed with 1 ml 70% (v/v) ethanol and then 1 ml absolute ethanol. 
+11.	The tube was then placed upside down over a paper towel for 15 min or until the pellet was completely dried. 
+12.	The pellet was resuspended in 100 ul warm (55C) TE buffer (10 mM Tris/HCl, pH 8.0, 1 mM EDTA). 
+13.	After the pellet was dissolved and the DNA solution cooled to 27C, 2 ul 20 mg Ribonuclease A/ml (Sigma, USA) was added and the tube was then incubated at 37C for 30 min.

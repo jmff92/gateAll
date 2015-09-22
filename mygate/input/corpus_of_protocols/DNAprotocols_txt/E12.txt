@@ -1,0 +1,45 @@
+Large-Scale DNA Extraction (Cimmyt)
+
+Lyophilization 
+1. Harvest leaves from greenhouse or field grown plants. It is preferable to use young leaves without necrotic areas or lesions, although older leaves which are not senescent may be used. 
+2. If the midrib is thick and tough, remove it. Cut or fold leaves into 10-15 cm sections and place in a plastic screen mesh bag along with the tag identifying the sample. (Aluminum foil or paper bags may be substituted if holes are punched to allow good air flow.) Place bags in an ice chest or other container with ice to keep samples cool (but do not allow them to freeze). Make sure samples do not get wet. 
+3. Place leaf samples in a Styrofoam container or another type container that will to hold liquid nitrogen. Add liquid nitrogen to quick-freeze samples. Once frozen, do not allow samples to thaw until freeze-dried! 
+	NOTE:  Leaf samples may be frozen and stored at -80C until ready to be lyophilized. 
+4. Transfer frozen leaf samples to lyophilizer. Make sure the lyophilizer is down to temperature (the chamber is = -50C) and pulling a good vacuum (= 10 microns Hg) before loading samples. Do not overload lyophilizer: make sure the vacuum is always = 100 microns and condenser temperature is = -50C. Samples should be dry in 72 hours. Typically, fresh weight ˜10X dry weight. 
+5. Dried leaf samples may be stored in sealed plastic bags at room temperature for a few days or, preferably, at -20C for several years. 
+6. Fill out a harvesting record sheet. 
+
+Grinding 
+1. Grind to a fine powder with a mechanical mill (Tecator Cyclotec Sample Mill, Model 1093), into a plastic scintillation vial or any other appropriate plastic container that can be closed airtight. 
+	NOTE:  If the plant material weighed less than 4 g fresh weight, grind to a powder in a coffee mill or a mortar and pestle with liquid nitrogen. The finer the grind, the greater the yield of DNA from a given amount of material. 
+2. Store ground samples tightly capped at -20C. Samples are stable for several years.
+
+Genomic DNA Isolation 
+(based on method of Saghai-Maroof et al., 1984) 
+
+1. Weigh 300-400 mg of ground, lyophilized tissue, into a 15 ml polypropylene centrifuge tube. DNA yields range from 50 to more than 100 µg DNA/100 mg dry tissue. If higher amounts are needed, start with 1 g lyophilized tissue into a 50 ml polypropylene centrifuge tube, and triple all the amounts given below. If lower amounts are needed, then weigh 100-150 mg lyophilized tissue into a 5 ml polypropylene centrifuge tube, and use 1/3 of the amounts given below. 
+2. Add 9.0 ml of warm (65C) CTAB extraction buffer to the 300-400 mg ground, lyophilized tissue. It is best to distribute tissue along the sides of the tube before adding buffer, to avoid clumping of dry tissue in the bottom. Mix several times by gentle inversion. 
+3. Incubate for 60-90 min, with continuous gentle rocking in a 65C oven. 
+4. Remove tubes from oven, wait 4-5 min for tubes to cool down, and then add 4.5 ml chloroform/octanol (24:1). Rock gently to mix for 5-10 min. 
+5. Spin in a table-top centrifuge for 10 min at 1300-1500 x g2 at RT. 
+	NOTE:  Below 15C the CTAB/nucleic acid complex may precipitate. This could ruin the preparation and damage the centrifuge. 
+6. Pour off top aqueous layer into new 15 ml tubes. Add 4.5 ml chloroform/octanol and rock gently for 5-10 min. 
+7. Spin in a table-top centrifuge for 10 min at 1300-1500 x g2 at RT. 
+8. Pipette top aqueous layer into new 15 ml tubes containing 30 µl of 10 mg/ml RNase A (pre-boiled). Mix by gentle inversion and incubate for 30 min at RT. 
+9. Add 6.0 ml of isopropanol (2-propanol). Mix by very gentle inversion. 
+10. Remove precipitated DNA with glass hook. Continue with OPTION A, B, or C. 
+
+OPTION A: Phenol extraction to obtain DNA of higher purity 
+This option is usually not necessary for RFLP analyses, unless DNA does not digest properly. In fact, it is better to perform phenol extraction only after restriction digestion; this improves DNA band separation and resolution after electrophoresis (see later sections for details). 
+11. Place hook with DNA in 5 ml plastic tube containing 1 ml of TE; gently twirl hook until DNA slides off the hook. Cap tubes and rock gently overnight at room temperature to dissolve DNA. 
+12. Phenol extract each sample with 1 ml (1x original TE volume) of equilibrated phenol or 1:1 phenol:chloroform. Centrifuge the sample 10 min at 1300 x g1 in swinging bucket rotor. 
+13. Transfer top (aqueous) layer to new 5 ml tube. Extract DNA with 1 ml (1x original TE volume) of chloroform/octanol. Centrifuge the sample 10 min at 1300 x g1 in swinging bucket rotor. Transfer top (aqueous) layer to new 5 ml tube. Continue with step 15 of OPTION B
+
+OPTION B: Ethanol precipitation 
+14. Place hook with DNA in 5 ml plastic tube containing 1 ml of TE; gently twirl hook until DNA slides off the hook. Cap tubes and rock gently overnight at room temperature to dissolve DNA. 
+15. Precipitate DNA by adding 50 µl of 5 M NaCl and then 2.5 ml absolute EtOH (2.5 original TE volume); mix by gentle inversion. 
+16. Remove precipitated DNA with glass hook. Continue with step 17 of OPTION C. 
+
+OPTION C: DNA washes 
+17. Place hook with DNA in 5 ml plastic tube containing 3-4 ml of WASH 1. Leave DNA on hook in tube for about 20 min. 
+18. Rinse DNA on hook briefly in 1-2 ml of WASH 2 and transfer DNA to 2 ml microfuge tube (preferably Sarsted with screw-on lids to avoid possible evaporation of the TE) containing 0.3-1.0 ml TE (based on experience, we use 0.3-0.5 ml for maize and 0.5-1.0 ml for wheat); gently twirl hook until DNA slides off the hook. Cap tube and rock gently overnight at room temperature to dissolve DNA. Store samples at 4C. 

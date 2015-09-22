@@ -1,0 +1,14 @@
+Phase: thirdstep
+Input: Token DNA_purification_reagent
+Options: control = first
+Rule: thirdstep9b
+(
+({Token.category == "NN"} | {Token.category == "NNP"})
+(({Token})[0,60])
+{DNA_purification_reagent.majorType == "reagents"}
+(({Token})*)
+({Token.string == "."})
+):dnapurification9b
+
+--> 
+:dnapurification9b.Dnapurification9b = {type = "dnapurification9b"}

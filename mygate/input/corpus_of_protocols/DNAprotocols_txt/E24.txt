@@ -1,0 +1,37 @@
+A high-throughput DNA extraction system suitable for conifers (PlantMethods)
+
+There are two versions of the protocol. Protocol A is designed for medium throughput and provides higher DNA yields per sample processed, whereas Protocol B works in the high-throughput 96-well format from the initial tissue homogenization to the purified DNA at the end.
+
+Protocol A  MTP version
+1. Weigh approximately 150 mg of plant material in 2 ml microcentrifuge tubes
+2. Add 500 µl of buffer AP1 and two 5 mm stainless steel beads. Grind the samples in a Mixer Mill for two rounds, 3 min each at 30 Hz
+3. Incubate the samples at 65C for 15 min
+4. Clear the lysates by centrifugation at 18,000 g for 15 min
+5. Transfer 170 µl of cleared lysate into a flat bottom 96-well plate
+6. Add premixed 200 µl 98% ethanol and 15 µl MagAttract A suspension to lysate. Mix by pipetting and then incubate the mixture at the ambient temperature for 2 min. Mix by pipetting again and incubate for another 2 min
+7. Place the plate onto the magnet and remove the supernatant from the sample
+8. Resuspend the beads by pipetting in 200  µl of RPW buffer containing RNAse A as per the manufacturer's protocol
+9. Place the plate onto the magnet and remove the supernatant from the sample
+10. Resuspend the beads in 200 µl of 98% ethanol
+11. Place the plate on the magnet and remove the supernatant, repeat 2 more times
+12. Air dry the beads for 10 min
+13. Resuspend the beads in 100 µl of 10 mM Tris-HCl pH 7.5, incubate 5 min at ambient temperature
+14. Place the plate on the magnet and transfer the DNA into a 96-well PCR plate for storage. Normally 95–100 µl (DNA concentrations varied with species and are provided below) can be recovered.
+
+
+Protocol B  HTP version
+1. Place 1–2 needles (3–5 mg dry weight) or one seed per sample in 96-racked collection tubes. Add 50 µl of buffer AP1 and one 5 mm stainless steel bead. Seal the tubes with cap strips
+2. Grind the samples in a Mixer Mill for two rounds, 3 min each at 30 Hz
+3. Briefly spin the racked tubes in a plate rotor at 2000 g and add another 150 µl of buffer AP1. Re-cap the tubes and mix the contents by shaking
+4. Incubate the samples at 65C for 15 min
+5. Clear the lysates by centrifugation at 2200 g for 10 min in a plate rotor
+6. Transfer 85 µl of cleared lysate into a round bottom 96-well plate
+7. Add premixed 130 µl 98% ethanol and 12 µl MagAttract A suspension. Mix by pipetting. Incubate at the ambient temperature for 2 min. Mix by pipetting again and incubate for another 2 min
+8. Place the plate onto the magnet and remove the supernatant from the sample
+9. Resuspend the beads by pipetting in 150  µl of RPW buffer containing RNAse A as per the manufacturer's protocol
+10. Place the plate onto the magnet and remove the supernatant
+11. Resuspend the beads in 200 µl of 98% ethanol
+12. Place the plate on the magnet and remove the supernatant, repeat 2 more times
+13. Air dry the beads for 10 min
+14. Resuspend the beads in 130 µl of 10 mM Tris-HCl pH 7.5, incubate 5 min at ambient temperature
+15. Place the plate on the magnet and transfer the eluted DNA into a 96-well PCR plate for storage. Normally 125-130 µl (DNA concentrations varied with species and tissues and are provided below) can be recovered.

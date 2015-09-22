@@ -1,0 +1,20 @@
+Optimization of DNA extraction from seeds and fresh leaf tissues of wild marigold (Tagetes minuta) for polymerase chain reaction analysis (GMR)
+
+1.	Fresh-leaf tissue (0.2 g) was ground in a 1.5-mL Eppendorf tube with a micropestle and preheated freshly prepared 800 킠 extraction buffer was immediately added to the tube.
+2.	Seeds, sun-dried and shade-dried leaf samples (0.1 g) were grounded to fine powder with a pestle and mortar and transferred to a 1.5-mL Eppendorf tube and 800 킠 extraction buffer was added. 
+3.	Incubation at 65C for 35-45 min, with inversion during incubation.
+4.	An equal volume of chloroform:isoamyl alcohol (24:1, v/v) was added and then the tubes were inverted 8-10 times.
+5.	The tubes were centrifuged at 13,000 rpm for 15 min.
+6.	The supernatant was placed in a new Eppendorf tube. 
+7.	If there was precipitation, then steps 4-6 were repeated until the precipitate was removed.
+8.	An equal volume of absolute ice-cold isopropanol was added.
+9.	The tubes were centrifuged at 13,000 rpm for 10 min.
+10.	The supernatant was discarded and the pellet was washed with 70% (v/v) ethanol.
+11.	The pellet was air-dried for 1 h at room temperature and then dissolved in 100 킠 TE buffer.
+12.	RNase A [2 킠 (1 킽/킠)] was added and the tubes were incubated at 37C for 1 h.
+13.	For further purification, extraction with an equal volume of chloroform:isoamyl alcohol (24:1, v/v) was performed.
+14.	DNA was precipitated by adding 1/10th volume of 3 M sodium acetate, pH 5.2, and 2.5 volume of ice-cold ethanol; the tube was inverted gently and this mixture maintained for 30 min at -20C. It was then centrifuged at 13,000 rpm for 10 min.
+15.	The supernatant was discarded and the pellet was washed with 70% (v/v) ethanol.
+16.	The pellet was dried and dissolved in 100 킠 TE buffer.
+17.	DNA concentrations were measured by running aliquots on 0.8% agarose gel and by reading absorbance at 260 nm with a spectrophotometer.
+18.	The DNA samples were stored at -20C until further use.

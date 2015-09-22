@@ -1,0 +1,56 @@
+Small-Scale Extraction of High Quality DNA (Cimmyt)
+
+The grinding of fully lyophilized leaf tissue before extraction can give very high quality DNA in quantities that depend on the methods used. The large-scale grinding and extraction process used on page 1 for RFLPs can be conveniently scaled down to grinding in a coffee grinder or by using small metal beads in a 1.5 ml tube. These methods provide a cheap, fast, and easy way to obtain small-to-medium amounts of very high quality DNA. 
+
+Lyophilization 
+1.  Harvest the youngest fully mature leaf from plants grown in the greenhouse or field. It is best to use young plants without necrotic or damaged areas, but mature plants may be used if they are not yet beginning to senesce. 
+2.  The final amount of DNA needed will determine which of the two procedures (stainless steel balls or coffee grinder) you will use. Each uses a different amount of leaf tissue. When material is scarce or only very low quantities of DNA are needed from each individual plant, the stainless steel ball procedure is recommended as more samples can be processed at a time. If more DNA is needed or if DNA will be extracted from many plants and bulked for population analysis, the coffee grinder procedure should be used.
+
+Stainless steel balls 
+1.  Small portions of the leaf (0.5-1.5 cm) are cut from each plant and placed in a 1.5 or 2.0 ml tube. Leaves from more than one plant can be placed in the same tube, which will accommodate a maximum of 6 leaves. 
+2.  Keep tubes of leaves cool until they can be frozen, but freeze as soon as possible. Freeze in a -80C freezer overnight or using liquid nitrogen. Samples must not thaw before lyophilization. 
+3.  Place trays of the open tubes containing frozen leaf materials into the lyophilizer. Lids of the tubes must be OPEN! 
+4.  Be sure that the lyophilizer chamber is at -60C at all times. Verify that it has reached the proper vacuum level after loading the samples, and that it maintains a vacuum level of -100 microns. Fortunately, the small leaf sizes in each tube makes it hard to overload the machine. Typically, samples must dry for 72 h, but may take less time using this method. 
+5.  Dried tissue may be stored in the tubes (with the lids CLOSED) at room temperature for a few days, or can be stored for longer periods at -20C. DNA extraction can be started in the same tubes.
+
+Coffee grinder 
+6.  Cut one leaf per plant (8-10 cm or so) and place the leaves in a glassine bag. 15 – 20 leaves can be placed in the same bag. Keep the samples cool until they can be frozen, but freeze as soon as possible. Freeze in the -80C freezer overnight or using liquid nitrogen. 
+7.  For the analysis of populations via bulks, we recommend the use of 15 plants, which must be the same age. Cut the youngest fully mature leaf of each one, with a size at 10 cm in longitude. The size and maturity of the leaves must be exactly the same, as the quantity of DNA depends on both factors, and equal quantities of DNA must be extracted from each plant. 
+8.  Glassine bags with samples can be stored in a sealed plastic bag at -80C until lyophilized. Keep samples in the freezer for at least 12 h, unless liquid nitrogen is used to accelerate the procedure; samples can be placed in the lyophilizer directly from the liquid nitrogen. Samples must not thaw before lyophilization. 
+9.  Transfer samples to the lyophilizer. Be sure the lyophilizer chamber is at -60C at all times. Verify the proper vacuum level has been reached after loading the samples, and that a vacuum level of -100 microns is maintained. Do not overload the chamber. Samples typically dry in 72 hours, but may take longer if many satellite chambers are placed in the lyophilizer. 
+10. Dried leaf samples may be stored at room temperature for a few days in a sealed plastic bag. They may be stored for longer periods at -20C. 
+
+Grinding 
+Stainless steel balls 
+1.  The stainless steel balls used in this procedure are 5/32” (4 mm) and may be purchased by the thousand at "Baleros y Bandas Sánchez,” Juárez Sur No. 340, Texcoco, Mex., tel. 9540687. 
+2.  If leaves were dried in glassine bags before grinding, they may still be cut and placed into 1.5 ml tubes; however, once the leaves are dry, cutting them is difficult as they tend to disintegrate.  
+3.  Place 2-3 stainless steel balls (4 mm in diameter) into each tube and close securely. Place the tubes in a Styrofoam holder and secure the lid of the holder with several strong rubber bands. 
+4.  Place the Styrofoam holder with tubes on an orbital shaker and secure to the shaker with rubber bands or laboratory tape. Keep the tubes in constant vibration on the shaker at 400 rpm for 2 h or until leaf tissue is ground to a fine powder. 
+5.  Alternatively, the Styrofoam holder can be taped or secured to a vortexer, which should be left on for 1-2 h until samples are finely ground. 
+6.  Use a magnet to remove the stainless steel balls from the powder before beginning extraction. 
+7.  Leaf powder can be stored in the closed tubes, or DNA extraction can begin immediately in the same tubes. 
+8.  If samples are not fully dried before grinding, grinding will be inefficient and DNA yield will be poor. The finer the powder, the higher the yield of DNA will be. 
+
+Coffee grinder 
+9.  Coffee grinders can be any brand, but we buy Braun grinders in Texcoco at Carrillo Alonzo, Art. 123 No. 7, Col. Centro, tel. 55123046. Coffee grinders are modified by taping clear plastic over the lids; otherwise, leaves will become trapped in the lids during grinding and will not be ground. 
+10. Place the dried leaf tissue in the coffee mill and grind to a fine powder (from 30 sec to 2 min). The finer the powder, the higher the yield of DNA will be. 
+11. Collect leaf powder into a 15 ml tube using a paintbrush and a paper funnel. 
+12. Place the cap on the tube and keep sealed until ready to extract. DNA extraction can begin in the same tubes. 
+13. Using a damp cloth, fine brush, or compressed air, clean the coffee grinder after each sample is ground to avoid contamination. 
+
+Genomic DNA Isolation 
+With this method, from 50 to 100 ug of DNA per each 100 mg leaf tissue may be obtained. When extracting DNA from larger amounts of tissue, increase the amounts given below (up to 1000 mg). 
+
+1.  Preheat the CTAB isolation buffer to 65C. 
+2.  Place 50 mg of lyophilized ground leaf tissue in a 2.0 ml tube (if using a 1.5 ml tube, all volumes may be scaled down by 25%). 
+3.  Add 1 ml of CTAB isolation buffer. Mix by gentle swirling to homogenize the tissue with the buffer. 
+4.  Incubate the samples at 65C for 90 min with continuous gentle rocking. 
+5.  Remove tubes from the oven and allow them to cool for 5-10 min. 
+6.  Add 500 µl of chloroform:octanol (24:1). Mix gently with continuous rocking for 10 min at room temperature. 
+7.  Centrifuge at 3500 rpm at room temperature for 10 min to generate a yellow aqueous phase and a green organic phase. 
+8.  Remove approximately 750 µl of the yellow aqueous phase and place in a new 1.5 or 2.0 ml tube containing 5 µl RNAse. Optional step: Repeat the chloroform treatment on the aqueous phase. This produces cleaner DNA, but a lower yield. 
+9.  Mix with gentle inversion and incubate at 37C for 30 min. 
+10. Add ½ volume ice-cold 100% isopropanol (2-propanol). Mix very gently to precipitate the nucleic acid. Optional step: Incubate samples at -20C overnight, especially if precipitated DNA is not visible. 
+11. Centrifuge at 3500 rpm at room temperature for 30 min to form a pellet at the bottom of the tube. Discard the supernatant. Optional step: Phenol extract each sample with 0.5 ml 1:1 phenol:chloroform according to phenol extraction procedures on page 3. This is rarely necessary when using lyophilized tissue.
+12. Add 1 ml of 75% ethanol. Wash the DNA pellet gently. Discard ethanol by decantation. Wash once again. Allow pellet to air-dry until ethanol evaporates completely. Any remaining alcohol smell indicates pellet is not completely dry. Re-suspend the DNA pellet in 1 ml of TE or double-distilled water. Store samples at 4C until use; if DNA will not be used for a long time, store at -20C. NOTE: DNA that is re-frozen after being thawed begins to break after each freezing session, so freeze DNA only for long-term storage and preferably after all testing is finished. If DNA will be used for multiple projects with long periods of time between projects, it can be aliquoted into several tubes and frozen, so that each aliquot is thawed only once at the start of each project. 
+ 

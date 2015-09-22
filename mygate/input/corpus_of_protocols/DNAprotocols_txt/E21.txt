@@ -1,0 +1,10 @@
+Ice-Cap: A Method for Growing Arabidopsis and Tomato Plants in 96-well Plates for High-Throughput Genotyping (Jove)
+
+DNA suitable for PCR reactions can be easily extracted from the root tissue samples. The yield of total DNA recovered from Arabidopsis root tissue samples is ca. 400 ng on average 2.
+1. Make sure that the water in the Root Plates has completely thawed before performing the DNA extraction procedure. Inspect the plates to determine if any wells have substantially less water than average. Hand pipette distilled water into wells that require additional water.
+2. Use the MicroFill machine to add 25 microliters of a Tris-EDTA solution (500 mM Tris, pH 8; 50 mM EDTA, pH8) to each well of the Root Plates.
+3. Seal the wells of the Root Plates using thermal sealing foil and a heat sealing machine.
+4. Place the sealed root plates on the GenoGrinder machine with the sealed end of the plates facing down. This plate orientation provides optimal bead movement and prevents the beads from sticking in the wells. Shake the plates in the GenoGrinder for 3 ½ minutes at 1350 strokes per minute.
+5. Transfer the plates to a centrifuge with microplate carriers and spin the plates for 10 minutes at 3500 RPM at 4C to pellet the pulverized root tissue.
+6. The resulting diluted extract contains genomic DNA that can be directly used in PCR reactions. Typically one will add 2 microliters of this DNA extract to a PCR reaction.
+7. For storage of DNA samples, seal the microplate using adhesive packing tape and place at minus 20C. DNA samples can be stored for several months with no apparent reduction in quality.

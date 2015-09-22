@@ -1,0 +1,38 @@
+MacManes Salt Extraction Protocol 
+Typical yield (5ug genomic DNA) 
+
+Digest Tissue: 
+a.  Tissue + 410µL extraction buffer + 2% SDS (80 µL 10% SDS) + 20µL Proteinase K (10mg/ml) 
+b.  Digest overnight (or until tissue dissolved) at temperature of preference (55º usually). 
+Extraction Step 1- Get rid of excess protein.  
+a.  Centrifuge 3 minutes at 13,000rpm 
+b.  Transfer supernatant to new eppi. Discard pellet. 
+Extraction Step 2- Get rid of salts.  
+a.  Add 200µL NaCl to supernatant from step 1. 
+b.  Vortex above mixture. 
+c.  Centrifuge mixture (at 4º) from step one- 7 minutes, 13,000rpm 
+Extraction Step 3- Precipitate DNA 
+a.  Transfer supernatant from step 2 quickly to new eppi. 
+b.  Add 500 µL chilled isopropanol. 
+c.  Gently mix. 
+d.  Cool on Ice x 10 minutes   
+e.  Centrifuge mixture (at 4º) from step two- 10 minutes, 13,000+rpm 
+Extraction Step 4- Wash DNA-1 
+a.  Carefully discard supernatant from step 3- (might see pellet at this point) 
+b.  Add 500µL 70-80% ethanol 
+c.  Mix gently. 
+d.  Cool on dry for a few minutes 
+e.  Centrifuge mixture (at 4º) from step three- 10 minutes, 13,000+rpm 
+Extraction Step 5- Wash DNA-2 
+a.  Carefully discard supernatant from step 4. 
+b.  Add 500µL 70-80% ethanol 
+c.  Mix gently 
+d.  Cool on Ice x few minutes 
+e.  Centrifuge mixture (at 4º) from step three- 10 minutes, 13,000+rpm 
+Extraction Step 6- Dry Pellet 
+a.  Discard Supernatant from step 5.  
+b.  Dry Pellet via method of choice. (vacuum centrifuge is best) 
+Extraction Step 7- rehydrate DNA 
+a.  Rehydrate DNA in 50µL TE buffer (or buffer of choice) 
+b.  Let sit overnight to completely rehydrate. 
+c.  Quantify DNA using nanodrop

@@ -1,0 +1,32 @@
+Manual residual DNA extraction workflow
+
+Prepare digestion reaction tubes and Proteinase K reaction
+Step 1: Label 2-mL safe-lock tubes as appropriate, then add 100 or 200 µL of sample to each tube.
+Step 2: Adjust pH level to between 6 and 8, first using 10N NaOH or 10N HCl (if necessary), then measure and confirm the pH level. The required volume depends on the sample pH. Adjust NaCl concentration to approximately 0.5 M (if necessary).
+Step 3: Make a master mix of Proteinase K buffer and Proteinase K, then add 70 µL of Proteinase K buffer/Proteinase K to the sample per 100 µL of sample. Briefly vortex and spin. Incubate at 56 C for 30 min.
+Step 4: Add 360 µL of lysis solution mix per 100 µL of starting sample. 
+
+Bind DNA
+Step 1: Incubate the Magnetic Particles at 37 C for 10 min, then vortex the Magnetic Particles at #7 to completely resuspend particles.
+Step 2: Add 30 µL of Magnetic Particles using a wide bore pipette tip.
+Step 3: Add 300 µL of Binding Solution per 100 µL of starting sample, invert twice, then vortex for 5 min at setting #7.
+Step 4: Spin for 15 seconds, place the tubes into a magnetic stand for 5 min or until the solution is clear, then remove and discard the supernatant.
+
+Wash DNA
+Step 1: Remove tubes from the magnetic stand, then add 300 µL of Wash Solution. Invert the tubes twice. Vortex for 5 sec at setting #7.
+Step 2: Spin for 15 sec, then place the tubes into the magnetic stand for 1 min . 
+Step 3: Without disturbing the magnetic beads, remove and discard the supernatant using a Pipetman or by aspiration.
+Step 4: Remove tubes from the magnetic stand, then add 300 µL of Wash Solution. Invert the tubes twice. Vortex for 5 sec at setting #7 .
+Step 5: Spin for 15 sec, then place the tubes into the magnetic stand for 1 min .
+Step 6: Without disturbing the magnetic beads, remove and discard the supernatant using a Pipetman or by aspiration.
+Step 7: Use a P200 pipettor to remove residual solution.
+Step 8: Leave the tube lids open for 5 min to air dry.
+
+Elute DNA
+Step 1: Add 50 µL of Elution Buffer to each tube.
+Step 2: Vortex for 10 sec at high speed, then incubate the tubes at 70 C for 7 min. Vortex two or three times to resuspend particles.
+Step 3: Spin for 15 sec and place the tubes into the magnetic stand for 2 min. Then transfer the eluate to a nonstick 1.5-mL tube.
+Step 4: Spin for 3 min at top speed. Place the tubes into a magnetic stand. 
+Step 5: Transfer the eluate to a nonstick 1.5-mL tube. Avoid the magnetic beads.
+When done, set up PCR using 10 µL of eluate (see the resDNASEQ™ Quantitative CHO DNA Kit Protocol).
+

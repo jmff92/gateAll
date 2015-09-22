@@ -1,0 +1,16 @@
+A simplified universal genomic DNA extraction protocol suitable for PCR (GMR)
+
+1. Lysis/homogenization: Add 0.6 mL extraction buffer to 20-80 mg tissue (animal or plant) or 10(5)-10(8) cells (cultured cells, white cells in whole blood). 
+	A. Tissues: Grind the tissue into a powder under liquid nitrogen or on an ice bath. Transfer up to 50 mg tissue to a 1.5- or 2.0-mL microcentrifuge tube. Add extraction buffer and store for 5-10 min at room temperature.
+	B. Cells: Cells grown in monolayer should be lysed directly in a culture dish. Pour off media, then add extraction buffer. Cell pellets or suspensions: add 1 mL extraction buffer to 107cells (suspended in 0.2 mL PBS) and lyse the cells by repeated pipetting. Decrease the extraction buffer by one half if using less than 5 × 10(6)cells. White blood cells: add 1 mL extraction buffer to the cells from more than 0.5 mL normal whole blood.
+	C. To minimize shearing the DNA molecules, mix DNA solutions by inversion; avoid vigorous shaking or vortexing.
+2. Centrifuge for 10 min at 13,000 g at 4-25C. 
+3. Following centrifugation, transfer the resulting viscous supernatant to the spin column. Centrifuge at 12,000 g for 30 s. Discard flow-through.
+4. Add 500 µL binding buffer to the spin column. Centrifuge at 12,000 g for 30 s. Discard flow-through.
+5. Add 600 µL washing buffer to the spin column. Centrifuge at 12,000 g for 1 min. Discard flow-through.
+6. Repeat step 5.
+7. Centrifuge for an additional 1 min at 12,000 g and transfer the spin column to a sterile 1.5-mL microcentrifuge tube.
+8. Add 10 to 200 µL TE buffer, and incubate at room temperature for 1 min.
+9. Centrifuge at 12,000 g for 1 min. The buffer in the microcentrifuge tube contains the DNA.
+10. DNA concentrations were measured by running aliquots on 0.8% agarose gel and by reading absorbance at 260 nm with a spectrophotometer.
+11. The DNA samples were stored at -20C until further use.

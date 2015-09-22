@@ -1,0 +1,5 @@
+obi.lst:instrument:instrument_from_obi:en:Instrument
+ero.lst:instrument:instrument_from_ero:en:Instrument
+efo.lst:instrument:instrument_from_efo:en:Instrument
+sp_reagents.lst:reagent:reagent_from_sp:en:Reagent
+sp_instruments.lst:instrument:instrument_from_sp:en:Instrument

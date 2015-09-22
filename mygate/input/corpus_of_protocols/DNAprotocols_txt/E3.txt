@@ -1,0 +1,28 @@
+DNA isolation from small amounts of plant tissue 
+
+Doyle & Doyle CTAB Procedure: 
+
+1. Preheat 5-7.5 ml of CTAB isolation buffer (2% hexadecyltrimethylammonium bromide [CTAB: Sigma H-5882], 1.4 M NaCl, 0.2% 2-mercaptoethanol, 20 mM EDTA, 100 mM Tris-HCl, pH 8.0) in a 30 ml glass centrifuge tube to 60C in a water bath. 
+2. Grind 0.5-1.0 g fresh leaf tissue in in 60C CTAB isolation buffer in a preheated mortar. 
+3. Incubate sample at 60C for 30 (15-60) minutes with optional occasional gentle swirling. 
+4. Extract once with chloroform-isoamyl alcohol (24:1), mixing gently but thoroughly. 
+This produces two phases, an upper aqueous phase which contains the DNA, and a lower chloroform phase that contains some degraded proteins, lipids, and many secondary compounds.  The interface between these two phases contains most of the "junk"--cell debris, many degraded proteins, etc. 
+5. Spin in clinical centrifuge (swinging bucket rotor) at room temperature to concentrate phases.  We use setting 7 on our IEC clinical (around 6,000 x g) for 10 min. 
+This is mainly to get rid of the junk that is suspended in the aqueous phase. Generally the aqueous phase will be clear, though often colored, following centrifugation, but this is not always the case. 
+6. Remove aqueous phase with wide bore pipet, transfer to clean glass centrifuge tube, add 2/3 volumes cold isopropanol, and mix gently to precipitate nucleic acids. 
+A wide bore pipet is used because DNA in solution is a long, skinny molecule that is easily broken (sheared) when it passes through a narrow opening.  Gentleness also improves the quality (length) of DNA. In some cases this stage yields large strands of nucleic acids that can be spooled out with a glass hook for subsequent preparation.  In most cases, this is not the case, however, and the sample is either flocculent, merely cloudy-looking, or, in some instances, clear.  If no evidence of precipitation is observed at this stage, the sample may be left at room temperature for several hours to overnight.  This is one convenient stopping place, in fact, when many samples are to be prepped.  In nearly all cases, there is evidence of precipitation after the sample has been allowed to settle out in this manner. 
+7. If possible, spool out nucleic acids with a glass hook and transfer to 10-20 ml of wash buffer (76% EtOH, 10 mM ammonium acetate). 
+a. Preferred alternative:  Spin in clinical centrifuge (e.g. setting 3 on IEC) for 1-2 min.  Gently pour off as much of the supernatant as possible without losing the precipitate, which will be a diffuse and very loose pellet.  Add wash buffer directly to pellet and swirl gently to resuspend nucleic acids. 
+b. Last resort:  Longer spins at higher speeds may be unavoidable if no precipitate is seen at all.  This will result, generally, in a hard pellet (or, with small amounts, a film on the bottom of the tube) that does not wash well and may contain more impurities.  Such pellets are difficult to wash, and in some cases we tear them with a glass rod to promote washing at which point they often appear flaky. 
+Nucleic acids generally become much whiter when washed, though some color may still remain. 
+8. Spin down (or spool out) nucleic acids (setting 7 IEC, 10 min) after a minimum of 20 min of washing.  The wash step is another convenient stopping point, as samples can be left at room temperature in wash buffer for at least two days without noticeable problems. 
+9. Pour off supernatant carefully (some pellets are still loose even after this longer spin) and allow to air dry briefly at room temperature. 
+10. Resuspend nucleic acid pellet in 1 ml TE (10 mM Tris-HCl, 1 mM EDTA, pH 7.4). 
+Although we commonly continue through additional purification steps, DNA obtained at this point is generally suitable for restriction digestion and amplification, so we'll stop here. 
+If DNA is to be used at this stage, pellets should be more thoroughly dried than indicated above. 
+Gel electrophoresis of nucleic acids at this step often reveals the presence of visible bands of ribosomal RNAs as well as high molecular weight DNA. 
+11. Add RNAase A to a final concentration of 10 ug/ml and incubate 30 min at 37C. 
+12. Dilute sample with 2 volumes of distilled water or TE, add ammonium acetate (7.5 M stock, pH 7.7) to a final concentration of 2.5 M, mix, add 2.5 volumes of cold EtOH, and gently mix to precipitate DNA. 
+DNA at this stage usually appears cleaner than in the previous precipitation.  Dilution with water or TE is helpful, as we have found that precipitation from 1 ml total volume often produces a gelatinous precipitate that is difficult to spin down and dry adequately. 
+13. Spin down DNA at high speed (10,000 x g for 10 min in refrigerated centrifuge, or setting 7 in clinical for 10 min). 
+14. Air dry sample and resuspend in appropriate amount of TE. 

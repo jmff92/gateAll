@@ -1,0 +1,21 @@
+CHLOROPLAST DNA ISOLATION
+(http://www.scienceboard.net/resources/protocols.asp?action=article&protocol_id=142&criteria=)
+
+
+Procedure
+1.	Grind in blender with 7 vol LL for maize, 10 for sorghum. Use MCE at 350 g/L, and if necessary, 5 ml 1 M DIECA/L. Cut leaves into ca. 1" strips prior to blending.
+2.	Squeeze through cheesecloth, Miracloth.
+3.	Centrifuge in GSA/JA14 rotors, if necessary. 10 min at 500 rpm GSA; 10 min at 570 rpm JA14.
+4.	Pellet chloroplasts in GSA/JA14; 15 min at 3000 rpm GSA; 15 min at 3100 rpm JA14.
+5.	Resuspend with pipet, in LL without MCE, etc. (ca. 300 ml/250 g).
+6.	Centrifuge 10 min in SS34/SA600/JA17 rotors: SS34 600 rpm; SA600 530 rpm; JA17 560 rpm.
+7.	Pellet chloroplasts 15 min in SS34/SA600/JA17 rotors: SS34 3000 rpm; SA600 2700 rpm; JA17 2800 rpm.
+Note: Use of small rotors preferable.
+8.	Resuspend with pipet in LL, ca. 250 ml/100 g. Centrifuge as in 7.
+9.	Resuspend with pipet in LL, ca. 10 ml/100 g if possible.
+10.	Add MgCl2 to 10 mM (100 l 1M/10 ml); DNase to 100 g/ml (250 l 2 mg/ml/10 ml). Incubate 60 min at room temperature.
+11.	Bring to about 250 ml/100 g with MM; centrifuge as in 7; resuspend with pipet in MM to ca. 80 ml; centrifuge as in 7.
+12.	Resuspend with pipet in NN; minimum volume, ca. 5 ml/100 g.
+13.	Add SDS to 0.5% (250 l of 10%/5 ml NN). Swirl.
+14.	Add Proteinase K to 200 g/ml (500 l of 20 mg/ml/5ml). Swirl.
+14.	Lyse 60 min at 37 C. (Go to Dellaporta for Sorghum).

@@ -1,0 +1,14 @@
+Phase: primersequence
+Input: Token
+Options: control = first
+Rule: primersequence1
+(
+({Token.string == "5"} | {Token.string == "3"})
+({Token.string == "'"})
+(({Token})[0,2])
+({Token.string == "3"} | {Token.string == "5"})
+({Token.string == "'"})
+):primersequence1
+
+--> 
+:primersequence1.Primersequence1 = {type = "primersequence1"}
